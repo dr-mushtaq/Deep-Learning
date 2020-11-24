@@ -7,3 +7,6 @@ https://techvidvan.com/tutorials/keras-introduction-tutorial/?fbclid=IwAR2Vkxp9F
 
 Keras Tutorial for Beginners: Deep Learning in Python with Example
 https://morioh.com/p/64add0864eec
+
+Four Popular Hyperparameter Tuning Methods With Keras Tuner
+https://dataaspirant.com/hyperparameter-tuning-with-keras-tuner/?fbclid=IwAR3c0z1rAOyWRpIp9DfS1aB46_P4CHSHreOnN32fzmxImw1kZddPVgS1o-g
