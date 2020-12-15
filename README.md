@@ -9,3 +9,6 @@ Keras Tutorial for Beginners: Deep Learning in Python with Example
 https://morioh.com/p/64add0864eec
 Best Keras Online Courses You Need to Know in 2021
 https://www.mltut.com/best-keras-online-courses/?fbclid=IwAR0glY9uRZHZIvPU_ywlxJuBGJe9AChwhZydC1qW7QSV3kFIv8Ky3kbHgIk
+
+Computer vision
+https://docs.fast.ai/tutorial.vision.html
