@@ -7,4 +7,5 @@
     *  [Keras_for_Beginners_Building_Your_First_Neural_Network.ipynb](https://github.com/hussain0048/Deep-Learning-with-Keras/blob/master/Alogrithems/Keras_for_Beginners_Building_Your_First_Neural_Network.ipynb)
  * [**Need to Implement**]()
  * [**Important Website**]()
+    *  [victorzhou](https://victorzhou.com/)
 
