@@ -6,6 +6,7 @@
     *  [Keras_for_Beginners_Implementing_a_Convolutional_Neural_Network](https://github.com/hussain0048/Deep-Learning-with-Keras/blob/master/Alogrithems/Keras_for_Beginners_Implementing_a_Convolutional_Neural_Network%20(1).ipynb)
     *  [Keras_for_Beginners_Building_Your_First_Neural_Network.ipynb](https://github.com/hussain0048/Deep-Learning-with-Keras/blob/master/Alogrithems/Keras_for_Beginners_Building_Your_First_Neural_Network.ipynb)
  * [**Need to Implement**]()
+    * [Text Classification — CNN with LSTM](https://anandsarank.medium.com/cnn-with-lstm-for-text-classification-53d18e5f7f5c)
  * [**Important Website**]()
     *  [victorzhou](https://victorzhou.com/)
 
