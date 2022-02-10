@@ -7,6 +7,7 @@
     *  [Keras_for_Beginners_Building_Your_First_Neural_Network.ipynb](https://github.com/hussain0048/Deep-Learning-with-Keras/blob/master/Alogrithems/Keras_for_Beginners_Building_Your_First_Neural_Network.ipynb)
  * [**Need to Implement**]()
     * [Text Classification — CNN with LSTM](https://anandsarank.medium.com/cnn-with-lstm-for-text-classification-53d18e5f7f5c)
+    * [Step-by-Step Guide — Building a Prediction Model in Python](https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b)
  * [**Important Website**]()
     *  [victorzhou](https://victorzhou.com/)
 
