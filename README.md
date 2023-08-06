@@ -10,7 +10,8 @@ Together, let's make this the best AI learning hub repository! 🚀
 
 
 ## Course 01  - [📚🧑‍🎓📺📝Neural Networks and Deep Learning]([https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems](https://coursesteach.com/course/view.php?id=181))
-### Week 2-[**Logistic Regression as a Neural Network**]()
+### Week 1-[**📚Chapter1: Introduciton of Deep learning**]()
+### Week 2-[**📚Chapter1:2Logistic Regression as a Neural Network**]()
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
  ##[**Alogrithems**](https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems)
