@@ -1,4 +1,4 @@
-About
+**About**
 
 This repository is a related to all about Deep Learning - an A-Z guide to the world of Data Science. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python)
 
@@ -9,7 +9,7 @@ Together, let's make this the best AI learning hub repository! 🚀
                           https://coursesteach.com/
 
 
-## Module 01  - [Neural Networks and Deep Learning](https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems)
+## Course 01  - [📚🧑‍🎓📺📝Neural Networks and Deep Learning]([https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems](https://coursesteach.com/course/view.php?id=181))
 ### Week 2-[**Logistic Regression as a Neural Network**]()
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
