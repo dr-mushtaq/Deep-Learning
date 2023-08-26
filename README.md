@@ -13,6 +13,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 ### Week 1-[**📚Chapter1: Introduciton of Deep learning**]()
    - [**Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3)
    - [**Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b)
+   - [**Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)
    - [**Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)
 ### Week 2-[**📚Chapter1:2Logistic Regression as a Neural Network**]()
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
