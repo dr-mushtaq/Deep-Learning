@@ -10,9 +10,10 @@ Together, let's make this the best AI learning hub repository! 🚀
 
 
 ## Course 01  - [📚🧑‍🎓📺📝Neural Networks and Deep Learning]([https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems](https://coursesteach.com/course/view.php?id=181))
-### Week 1-[**📚Chapter1: Introduciton of Deep learning**]()
+### Week 1-[**📚Chapter1: Introduction of Deep learning**]()
    - [**Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3)
    - [**Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b)
+   - [**Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)
    - [**Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)
    - [**Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)
 ### Week 2-[**📚Chapter1:2Logistic Regression as a Neural Network**]()
