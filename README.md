@@ -20,6 +20,7 @@ Together, let's make this the best AI learning hub repository! 🚀
    - [**Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b)
    - [**Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820)
    - [**Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)
+   - [**Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
  ##[**Alogrithems**](https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems)
