@@ -20,10 +20,13 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
 ### Week 2-[**📚Chapter1:2Logistic Regression as a Neural Network**]()
-   - [**Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b)
-   - [**Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820)
-   - [**Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)
-   - [**Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)
+| Tutorial | Video | Code |
+|---|---|---|
+| [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
+|[**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
+|[**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
+|[**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|---|---|
+ 
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
  ##[**Alogrithems**](https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems)
