@@ -27,6 +27,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
 |[**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|---|---|
 |[**5-Intuition about Derivatives**](https://medium.com/@Coursesteach/deep-learning-part-9-51f3f2a32a80)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb))|
+|[**6-Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-10-computation-graph-44cf88d8a507)|[**Video**](https://drive.google.com/file/d/1mKrtl70Hk_mkvAxtz6UOi57L2Owhef8J/view)|---|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
