@@ -9,8 +9,8 @@ Together, let's make this the best AI learning hub repository! 🚀
                           https://coursesteach.com/
 
 
-## Course 01  - [📚🧑‍🎓📺📝Neural Networks and Deep Learning]([https://github.com/hussain0048/Deep-Learning-with-Keras/tree/master/Alogrithems](https://coursesteach.com/course/view.php?id=181))
-### Week 1-[**📚Chapter1: Introduction of Deep learning**]()
+## Course 01  - **📚🧑‍🎓📺📝Neural Networks and Deep Learning**
+### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Tutorial  | Video | Code|
 |---|---|---|
 | [**1-Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | Content 2 | Content 3 |
@@ -19,7 +19,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|---|---|
 |[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
-### Week 2-[**📚Chapter1:2Logistic Regression as a Neural Network**]()
+### Week 2-**📚Chapter1:2Logistic Regression as a Neural Network**
 | Tutorial | Video | Code |
 |---|---|---|
 | [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
