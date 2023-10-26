@@ -19,7 +19,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|---|---|
 |[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
-### Week 2-**📚Chapter1:2Logistic Regression as a Neural Network**
+### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Tutorial | Video | Code |
 |---|---|---|
 | [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
