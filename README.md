@@ -29,6 +29,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**5-Intuition about Derivatives**](https://medium.com/@Coursesteach/deep-learning-part-9-51f3f2a32a80)|[**Video**](https://drive.google.com/file/d/1agLgVt0VuFA_knJVgM9bJu6JzvS2qIyL/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb))|
 |[**6-Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-10-computation-graph-44cf88d8a507)|[**Video**](https://drive.google.com/file/d/1mKrtl70Hk_mkvAxtz6UOi57L2Owhef8J/view)[**-Video2**](https://drive.google.com/file/d/1VsCUNq_2Lk0w8sRuKOH75cTuf4OTzW-0/view?usp=sharing)|---|
 |[**7-Derivatives with a Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-11-derivatives-with-a-computation-graph-5ea09aa7817f)|[**Video**](https://drive.google.com/file/d/1ZelegkpamdCz55a3fqNRT85lsy5A6mna/view)|---|
+|[**8-Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-12-logistic-regression-gradient-descent-56a0b9a087b8)|[**Video**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|---|
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
