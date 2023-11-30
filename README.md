@@ -32,6 +32,11 @@ Together, let's make this the best AI learning hub repository! 🚀
 |[**8-Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-12-logistic-regression-gradient-descent-56a0b9a087b8)|[**Video**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|---|
 |[**9-Gradient Descent on m Examples**](https://medium.com/@Coursesteach/deep-learning-part-13-gradient-descent-on-m-examples-bf50438f9f9c)|[**Video**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
+### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
+| Tutorial | Video | Code |
+|---|---|---|
+|[**1-Vectorization**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1VRqm_Rnkff3LlfqBKEXdhaWxP6Tq02d1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
