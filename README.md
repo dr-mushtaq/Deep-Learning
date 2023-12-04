@@ -4,7 +4,7 @@ This repository is a related to all about Deep Learning - an A-Z guide to the wo
 
 **Contribution**: We would love your help in making this repository even better! if you have any suggestions for improvement in any repository content, feel free to open an issue or submit a repository contribution request.
 
-Together, let's make this the best AI learning hub repository! 🚀
+Together, let's make this the best Deep learning hub repository! 🚀
 
                           https://coursesteach.com/
 
