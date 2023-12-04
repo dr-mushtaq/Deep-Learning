@@ -13,24 +13,24 @@ Together, let's make this the best AI learning hub repository! 🚀
 ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Tutorial  | Video | Code|
 |---|---|---|
-| [**1-Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | Content 2 | Content 3 |
-| [**2-Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) | Content 5 | Content 6 |
-|[**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|---|---|
-|[**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|---|---|
+| [🌐**1-Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | Content 2 | Content 3 |
+| [🌐**2-Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) | Content 5 | Content 6 |
+|[🌐**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|---|---|
+|[🌐**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|---|---|
 |[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Tutorial | Video | Code |
 |---|---|---|
-| [**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
-|[**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
-|[**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
-|[**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|[**1**](https://drive.google.com/file/d/1RbY5DMHBROBxoo1E9J5JzLOLNOqrucTy/view)[**-2**](https://www.youtube.com/watch?v=hfMk-kjRv4c&ab_channel=SebastianLague)|---|
-|[**5-Intuition about Derivatives**](https://medium.com/@Coursesteach/deep-learning-part-9-51f3f2a32a80)|[**1**](https://drive.google.com/file/d/1agLgVt0VuFA_knJVgM9bJu6JzvS2qIyL/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb))|
-|[**6-Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-10-computation-graph-44cf88d8a507)|[**1**](https://drive.google.com/file/d/1mKrtl70Hk_mkvAxtz6UOi57L2Owhef8J/view)[**-2**](https://drive.google.com/file/d/1VsCUNq_2Lk0w8sRuKOH75cTuf4OTzW-0/view?usp=sharing)|---|
-|[**7-Derivatives with a Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-11-derivatives-with-a-computation-graph-5ea09aa7817f)|[**1**](https://drive.google.com/file/d/1ZelegkpamdCz55a3fqNRT85lsy5A6mna/view)|---|
-|[**8-Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-12-logistic-regression-gradient-descent-56a0b9a087b8)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|---|
-|[**9-Gradient Descent on m Examples**](https://medium.com/@Coursesteach/deep-learning-part-13-gradient-descent-on-m-examples-bf50438f9f9c)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+| [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
+|[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
+|[🌐**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
+|[🌐**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|[**1**](https://drive.google.com/file/d/1RbY5DMHBROBxoo1E9J5JzLOLNOqrucTy/view)[**-2**](https://www.youtube.com/watch?v=hfMk-kjRv4c&ab_channel=SebastianLague)|---|
+|[🌐**5-Intuition about Derivatives**](https://medium.com/@Coursesteach/deep-learning-part-9-51f3f2a32a80)|[**1**](https://drive.google.com/file/d/1agLgVt0VuFA_knJVgM9bJu6JzvS2qIyL/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb))|
+|[🌐**6-Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-10-computation-graph-44cf88d8a507)|[**1**](https://drive.google.com/file/d/1mKrtl70Hk_mkvAxtz6UOi57L2Owhef8J/view)[**-2**](https://drive.google.com/file/d/1VsCUNq_2Lk0w8sRuKOH75cTuf4OTzW-0/view?usp=sharing)|---|
+|[🌐**7-Derivatives with a Computation Graph**](https://medium.com/@Coursesteach/deep-learning-part-11-derivatives-with-a-computation-graph-5ea09aa7817f)|[**1**](https://drive.google.com/file/d/1ZelegkpamdCz55a3fqNRT85lsy5A6mna/view)|---|
+|[🌐**8-Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-12-logistic-regression-gradient-descent-56a0b9a087b8)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|---|
+|[🌐**9-Gradient Descent on m Examples**](https://medium.com/@Coursesteach/deep-learning-part-13-gradient-descent-on-m-examples-bf50438f9f9c)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
 ### Week 3-**📚Chapter 3 Python and Vectorization**
 | Tutorial | Video | Code |
