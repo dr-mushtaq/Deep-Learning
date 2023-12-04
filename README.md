@@ -22,7 +22,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Tutorial | Video | Code |
 |---|---|---|
-| [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | Content 2 | Content 3 |
+| [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | [1](https://drive.google.com/file/d/1n-Fql88ISifq20Fu77etvKQa5gPscB-v/view) | Content 3 |
 |[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
 |[🌐**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
 |[🌐**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|[**1**](https://drive.google.com/file/d/1RbY5DMHBROBxoo1E9J5JzLOLNOqrucTy/view)[**-2**](https://www.youtube.com/watch?v=hfMk-kjRv4c&ab_channel=SebastianLague)|---|
