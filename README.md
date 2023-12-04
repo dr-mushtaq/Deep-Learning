@@ -23,7 +23,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | Tutorial | Video | Code |
 |---|---|---|
 | [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | [1](https://drive.google.com/file/d/1n-Fql88ISifq20Fu77etvKQa5gPscB-v/view) | Content 3 |
-|[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) | Content 5 | Content 6 |
+|[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) |[1](https://drive.google.com/file/d/1A9YOhkuHjX3pI-MkWtECwFnswZvq5eEn/view)| Content 6 |
 |[🌐**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|---|---|
 |[🌐**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|[**1**](https://drive.google.com/file/d/1RbY5DMHBROBxoo1E9J5JzLOLNOqrucTy/view)[**-2**](https://www.youtube.com/watch?v=hfMk-kjRv4c&ab_channel=SebastianLague)|---|
 |[🌐**5-Intuition about Derivatives**](https://medium.com/@Coursesteach/deep-learning-part-9-51f3f2a32a80)|[**1**](https://drive.google.com/file/d/1agLgVt0VuFA_knJVgM9bJu6JzvS2qIyL/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)]([https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb))|
