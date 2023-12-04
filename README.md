@@ -14,7 +14,7 @@ Together, let's make this the best AI learning hub repository! 🚀
 | Tutorial  | Video | Code|
 |---|---|---|
 | [🌐**1-Understanding Basic Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | [1](https://drive.google.com/file/d/11qLSQ0yE9vzUs77HvfOrQSKMBh8qfdHS/view)[-2](https://drive.google.com/file/d/1w4msKjdoNrUHNE7sW4nOfMbDQuo5TMF0/view) | Content 3 |
-| [🌐**2-Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) | Content 5 | Content 6 |
+| [🌐**2-Supervised Learning with Neural Networks(Tutorial)**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
 |[🌐**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|---|---|
 |[🌐**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|---|---|
 |[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
