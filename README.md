@@ -17,7 +17,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 | [🌐**2-Supervised Learning with Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
 |[🌐**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|---|---|
 |[🌐**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|[1](https://drive.google.com/file/d/1ewpU3lXmwkV11TSqryJmFZDOGOGDAgt-/view)|---|
-|[**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
+|[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Tutorial | Video | Code |
