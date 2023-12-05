@@ -35,7 +35,8 @@ Together, let's make this the best Deep learning hub repository! 🚀
 ### Week 3-**📚Chapter 3 Python and Vectorization**
 | Tutorial | Video | Code |
 |---|---|---|
-|[**1-Vectorization**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1VRqm_Rnkff3LlfqBKEXdhaWxP6Tq02d1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+|[**🌐1-Vectorization**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1VRqm_Rnkff3LlfqBKEXdhaWxP6Tq02d1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+|[**🌐2-More Vectorization Examples**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1LVLtz9w3b75fo1cAK-L27bLQQ1AODDjb/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
