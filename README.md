@@ -11,7 +11,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 
  ***
 <details> 
-<summary> <h2>Module 1 - Python Programming </h2> </summary>
+<summary> <h2>Course 1 - 📚Neural Networks and Deep Learning </h2> </summary>
   
   ## Course 01  - **📚🧑‍🎓📺📝Neural Networks and Deep Learning**
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
