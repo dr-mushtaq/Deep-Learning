@@ -10,10 +10,6 @@ Together, let's make this the best Deep learning hub repository! 🚀
  Star this repo if you find it useful ⭐
 
  ***
-
-<details> 
-<summary> <h2>Module 1 - Python Programming </h2> </summary>
-<details> 
 ## Course 01  - **📚🧑‍🎓📺📝Neural Networks and Deep Learning**
 ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Tutorial  | Video | Code|
