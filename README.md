@@ -7,6 +7,7 @@ This repository is a related to all about Deep Learning - an A-Z guide to the wo
 Together, let's make this the best Deep learning hub repository! 🚀
 
                           https://coursesteach.com/
+ Star this repo if you find it useful ⭐
 
 
 ## Course 01  - **📚🧑‍🎓📺📝Neural Networks and Deep Learning**
