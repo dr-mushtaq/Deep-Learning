@@ -12,8 +12,8 @@ Together, let's make this the best Deep learning hub repository! 🚀
  ***
 <details> 
 <summary> <h2>Module 1 - Python Programming </h2> </summary>
-## Course 01  - **📚🧑‍🎓📺📝Neural Networks and Deep Learning**
-### Week 1-**📚Chapter1: Introduction of Deep learning**
+  ## Course 01  - **📚🧑‍🎓📺📝Neural Networks and Deep Learning**
+  ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Tutorial  | Video | Code|
 |---|---|---|
 | [🌐**1-Understanding Basic Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | [1](https://drive.google.com/file/d/11qLSQ0yE9vzUs77HvfOrQSKMBh8qfdHS/view)[-2](https://drive.google.com/file/d/1w4msKjdoNrUHNE7sW4nOfMbDQuo5TMF0/view)[-3](https://drive.google.com/file/d/1k4oWJ8ykTTciMMvwhM0sdaMUxTe69kuC/view?usp=sharing) | Content 3 |
