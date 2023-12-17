@@ -14,7 +14,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 <summary> <h2>Course 1 - 📚Neural Networks and Deep Learning </h2> </summary>
   
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
-| Tutorial  | Video | Code|
+| Topic Name/Tutorial | Video | Code|
 |---|---|---|
 | [🌐**1-Understanding Basic Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | [1](https://drive.google.com/file/d/11qLSQ0yE9vzUs77HvfOrQSKMBh8qfdHS/view)[-2](https://drive.google.com/file/d/1w4msKjdoNrUHNE7sW4nOfMbDQuo5TMF0/view)[-3](https://drive.google.com/file/d/1k4oWJ8ykTTciMMvwhM0sdaMUxTe69kuC/view?usp=sharing) | Content 3 |
 | [🌐**2-Supervised Learning with Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
@@ -23,7 +23,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 |[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | [1](https://drive.google.com/file/d/1n-Fql88ISifq20Fu77etvKQa5gPscB-v/view) | Content 3 |
 |[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) |[1](https://drive.google.com/file/d/1A9YOhkuHjX3pI-MkWtECwFnswZvq5eEn/view)[-2](https://drive.google.com/file/d/1tN02xXb_DzbJoeJgIg1cEvHUHiMJAqi0/view)| Content 6 |
@@ -36,7 +36,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 |[🌐**9-Gradient Descent on m Examples**](https://medium.com/@Coursesteach/deep-learning-part-13-gradient-descent-on-m-examples-bf50438f9f9c)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
 ### Week 3-**📚Chapter 3 Python and Vectorization**
-| Tutorial | Video | Code |
+| Topic Name/Tutorial| Video | Code |
 |---|---|---|
 |[**🌐1-Vectorization**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1VRqm_Rnkff3LlfqBKEXdhaWxP6Tq02d1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐2-More Vectorization Examples**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1LVLtz9w3b75fo1cAK-L27bLQQ1AODDjb/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
@@ -44,6 +44,8 @@ Together, let's make this the best Deep learning hub repository! 🚀
 |[**🌐4-Vectorizing Logistic Regression’s Gradient Output**](https://medium.com/@Coursesteach/deep-learning-part-17-vectorizing-logistic-regressions-gradient-output-14ac3d4bf91c)|[**1**](https://drive.google.com/file/d/1s9s24F8LhvrlIEggRUH4lVSARu_vhy_L/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 </details>
 
+<details> 
+<summary> <h2>🗞️📚Other Best Free Resources to Learn Deep Learning </h2> </summary>
  
    - [**Assignment 1: Python Basics with Numpy**](https://github.com/hussain0048/Deep-Learning/blob/master/Python_Basics_With_Numpy_v3.ipynb)
    
@@ -59,4 +61,4 @@ Together, let's make this the best Deep learning hub repository! 🚀
     * [Step-by-Step Guide — Building a Prediction Model in Python](https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b)
  * [**Important Website**]()
     *  [victorzhou](https://victorzhou.com/)
-
+</details>
