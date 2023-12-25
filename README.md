@@ -43,7 +43,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 |[**🌐3-Vectorizing Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-16-vectorizing-logistic-regression-8a86d1d94f76)|[**1**](https://drive.google.com/file/d/1UKc4mFpS0zlocMdT2E2tunq2tFn7mREJ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐4-Vectorizing Logistic Regression’s Gradient Output**](https://medium.com/@Coursesteach/deep-learning-part-17-vectorizing-logistic-regressions-gradient-output-14ac3d4bf91c)|[**1**](https://drive.google.com/file/d/1s9s24F8LhvrlIEggRUH4lVSARu_vhy_L/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
-### Week 4-**📚Chapter4: Shallow Neural Network **
+### Week 4-**📚Chapter4: Shallow Neural Network**
 | Topic Name/Tutorial| Video | Code |
 |---|---|---|
 |[**🌐1-Neural Networks Overview**](https://medium.com/@Coursesteach/deep-learning-part-18-neural-networks-overview-992f2ed9d1d7)|[**1**](https://drive.google.com/file/d/1QBfz3m2N9K4oDtK4lKFUsgDKY3Rlr--_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
