@@ -47,7 +47,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 | Topic Name/Tutorial| Video | Code |
 |---|---|---|
 |[**🌐1-Neural Networks Overview**](https://medium.com/@Coursesteach/deep-learning-part-18-neural-networks-overview-992f2ed9d1d7)|[**1**](https://drive.google.com/file/d/1QBfz3m2N9K4oDtK4lKFUsgDKY3Rlr--_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
-|[**🌐2-Neural Network Representation**](https://medium.com/@Coursesteach/deep-learning-part-18-neural-networks-overview-992f2ed9d1d7)|[**1**](https://drive.google.com/file/d/14Dg60DlshucxBzz_Mg7QZCvNuisnRLOw/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+|[**🌐2-Neural Network Representation**](https://medium.com/@Coursesteach/deep-learning-part-19-neural-network-representation-6d352c922c4e)|[**1**](https://drive.google.com/file/d/14Dg60DlshucxBzz_Mg7QZCvNuisnRLOw/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 </details>
 
 <details> 
