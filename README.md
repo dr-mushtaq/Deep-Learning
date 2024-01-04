@@ -11,7 +11,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 
  ***
 <details> 
-<summary> <h2>Course 1 - 📚Neural Networks and Deep Learning </h2> </summary>
+<summary> <h2>Course 1 - 🧠Neural Networks and Deep Learning </h2> </summary>
   
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Topic Name/Tutorial | Video | Code|
