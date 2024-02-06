@@ -9,6 +9,12 @@ Together, let's make this the best Deep learning hub repository! 🚀
                           https://coursesteach.com/
  Star this repo if you find it useful ⭐
 
+ <h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through social handles.
+
+<a href="https://twitter.com/abhishek_py3"><img src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+
  ***
 <details> 
 <summary> <h2>Course 1 - 🧠Neural Networks and Deep Learning </h2> </summary>
