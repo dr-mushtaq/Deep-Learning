@@ -13,7 +13,7 @@ Together, let's make this the best Deep learning hub repository! 🚀
 
 If you want to contact me, you can reach me through social handles.
 
-<a href="https://twitter.com/Mushtaq03361498"><img src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mushtaq-hussain-21417814//"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a><a href="https://join.skype.com/NukTVyFbktsj"><img src="https://github.com/hussain0048/Deep-Learning/blob/master/skype-icon-seeklogo.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mushtaq-hussain-21417814//"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+<a href="https://twitter.com/Mushtaq03361498"><img src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-0902F48837-seeklogo.com.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mushtaq-hussain-21417814//"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a><a href="https://join.skype.com/NukTVyFbktsj"><img src="https://github.com/hussain0048/Deep-Learning/blob/master/skype-icon-seeklogo.png" width="30"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mushtaq-hussain-21417814//"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
  ***
 <details> 
