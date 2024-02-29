@@ -63,6 +63,11 @@ If you want to contact me, you can reach me through social handles.
 |[**🌐9-Gradient Descent for Neural Networks?**](https://medium.com/@Coursesteach/deep-learning-part-26-gradient-descent-for-neural-networks-4d27bec5caa8)|[**1**](https://drive.google.com/file/d/1PaEEEtBSWEAa8Y8IGEL52VwzzL-OZZQQ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐10-Backpropagation Intuition?**](https://medium.com/@Coursesteach/deep-learning-part-27-backpropagation-intuition-657275fd1960)|[**1**](https://drive.google.com/file/d/1xxhg6PwcuK03-YFkKzsS8DSo1DitU-7E/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐11-Random Initialization?**](https://medium.com/@Coursesteach/deep-learning-part-27-random-initialization-b25ef8df8334)|[**1**](https://drive.google.com/file/d/1ynAhOUck7mZq3kszHk_XjrcJcZIGG5qF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+
+### Week 5-**📚Chapter5:Deep Neural Network**
+| Topic Name/Tutorial| Video | Code |
+|---|---|---|
+|[**🌐1-https://medium.com/@Coursesteach/deep-learning-part-29-deep-l-layer-neural-network-ae01928aa68a**](https://medium.com/@Coursesteach/deep-learning-part-29-deep-l-layer-neural-network-ae01928aa68a)|[**1**](https://drive.google.com/file/d/1QBfz3m2N9K4oDtK4lKFUsgDKY3Rlr--_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 </details>
 
 <details> 
