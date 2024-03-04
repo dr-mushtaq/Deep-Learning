@@ -68,6 +68,7 @@ If you want to contact me, you can reach me through social handles.
 | Topic Name/Tutorial| Video | Code |
 |---|---|---|
 |[**🌐1-Deep L-layer Neural Network**](https://medium.com/@Coursesteach/deep-learning-part-29-deep-l-layer-neural-network-ae01928aa68a)|[**1**](https://drive.google.com/file/d/1C55dUaouJBkKxf8P4fGZ-w-WDZAP75K3/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+|[**🌐2-Forward Propagation in a Deep Network**](https://medium.com/@Coursesteach/deep-learning-part-30-forward-propagation-in-a-deep-network-df65458904f3)|[**1**](https://drive.google.com/file/d/1X6Ufc8fsf7x0A_yHhw-f8QKwDBpmERjJ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 </details>
 
 <details> 
