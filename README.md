@@ -1,4 +1,7 @@
-**About**
+## **Welcome to Deep Learning👋🛒**
+<p align="center">
+<img src="https://github.com/hussain0048/Machine-Learning/blob/master/Machine%20Leanring.png"></a>
+</p>
 
 This repository is a related to all about Deep Learning - an A-Z guide to the world of Deep Learning. This supplement contains the implementation of algorithms, statistical methods and techniques (in Python)
 
