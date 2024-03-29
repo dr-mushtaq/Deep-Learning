@@ -5,19 +5,22 @@
 
 Welcome to the A-Z Guide to Deep Learning repository! This comprehensive supplement serves as your gateway to the expansive world of Deep Learning, offering in-depth coverage of algorithms, statistical methods, and techniques essential for mastering this cutting-edge field.
 
-Overview
+**Overview**
+
 The A-Z Guide to Deep Learning is designed to provide a comprehensive roadmap for both beginners and experienced practitioners seeking to delve into the realm of Deep Learning. Whether you're just starting your journey or looking to expand your expertise, this repository offers a wealth of resources to support your learning and exploration.
 
-Features
-Extensive Coverage: Explore a wide range of topics, including fundamental concepts, advanced algorithms, statistical methods, and practical techniques crucial for understanding and implementing Deep Learning models.
+**Features**
 
-Hands-On Implementations: Dive into practical implementations of Deep Learning algorithms and techniques using Python, alongside detailed explanations, code examples, and real-world applications.
+**1- Extensive Coverage:** Explore a wide range of topics, including fundamental concepts, advanced algorithms, statistical methods, and practical techniques crucial for understanding and implementing Deep Learning models.
 
-Progressive Learning Path: Follow a structured learning path that progresses from foundational concepts to advanced topics, ensuring a gradual and comprehensive understanding of Deep Learning principles and methodologies.
+**2-Hands-On Implementations:** Dive into practical implementations of Deep Learning algorithms and techniques using Python, alongside detailed explanations, code examples, and real-world applications.
 
-Supplementary Resources: Access supplementary materials, such as articles, tutorials, research papers, and curated datasets, to enrich your learning experience and stay updated with the latest developments in Deep Learning.
+**3-Progressive Learning Path:** Follow a structured learning path that progresses from foundational concepts to advanced topics, ensuring a gradual and comprehensive understanding of Deep Learning principles and methodologies.
 
-Contents
+**4-Supplementary Resources:** Access supplementary materials, such as articles, tutorials, research papers, and curated datasets, to enrich your learning experience and stay updated with the latest developments in Deep Learning.
+
+***Contents***
+
 Fundamental Concepts: Covering essential concepts such as neural networks, activation functions, optimization algorithms, loss functions, and regularization techniques.
 
 Advanced Algorithms: Exploring advanced Deep Learning architectures and algorithms, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), and reinforcement learning.
