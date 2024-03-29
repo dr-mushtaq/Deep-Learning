@@ -33,7 +33,7 @@ Explore the repository's contents, follow the structured learning path, and leve
 
 **Contributing**
 
-Contributions are welcome! Whether it's fixing a bug, enhancing existing content, or adding new material, your contributions can help enrich the learning experience for others. Please contact to the my skype ID:themushtaq48 for guidelines on how to contribute.
+Contributions are welcome! Whether it's fixing a bug, enhancing existing content, or adding new material, your contributions can help enrich the learning experience for others. Please contact to the my **skype ID:themushtaq48** for guidelines on how to contribute.
 
 
  Star this repo if you find it useful ⭐
