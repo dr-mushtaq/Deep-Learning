@@ -19,7 +19,7 @@ The A-Z Guide to Deep Learning is designed to provide a comprehensive roadmap fo
 
 **4-Supplementary Resources:** Access supplementary materials, such as articles, tutorials, research papers, and curated datasets, to enrich your learning experience and stay updated with the latest developments in Deep Learning.
 
-***Contents***
+**Contents**
 
 Fundamental Concepts: Covering essential concepts such as neural networks, activation functions, optimization algorithms, loss functions, and regularization techniques.
 
@@ -27,22 +27,13 @@ Advanced Algorithms: Exploring advanced Deep Learning architectures and algorith
 
 Statistical Methods and Techniques: Discussing statistical methods and techniques commonly used in Deep Learning, such as hypothesis testing, probability distributions, dimensionality reduction, and Bayesian inference.
 
-Installation
-To get started with the A-Z Guide to Deep Learning, clone the repository to your local machine and follow the installation instructions provided in the README file.
+**Usage**
 
-Usage
 Explore the repository's contents, follow the structured learning path, and leverage the provided code examples, exercises, and projects to deepen your understanding of Deep Learning concepts and techniques.
 
-Contributing
-Contributions are welcome! Whether it's fixing a bug, enhancing existing content, or adding new material, your contributions can help enrich the learning experience for others. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
+**Contributing**
 
-License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-
-Badges
-Include relevant badges such as build status, code coverage, etc., if applicable.
-
+Contributions are welcome! Whether it's fixing a bug, enhancing existing content, or adding new material, your contributions can help enrich the learning experience for others. Please contact to the my skype ID:themushtaq48 for guidelines on how to contribute.
 
 
  Star this repo if you find it useful ⭐
