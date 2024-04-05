@@ -58,7 +58,7 @@ If you want to contact me, you can reach me through social handles.
 |[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
-| Topic Name/Tutorial | Video | Code |
+| Topic Name/Tutorial | Video | Notebook |
 |---|---|---|
 | [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | [1](https://drive.google.com/file/d/1n-Fql88ISifq20Fu77etvKQa5gPscB-v/view) | Content 3 |
 |[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) |[1](https://drive.google.com/file/d/1A9YOhkuHjX3pI-MkWtECwFnswZvq5eEn/view)[-2](https://drive.google.com/file/d/1tN02xXb_DzbJoeJgIg1cEvHUHiMJAqi0/view)| Content 6 |
@@ -71,7 +71,7 @@ If you want to contact me, you can reach me through social handles.
 |[🌐**9-Gradient Descent on m Examples**](https://medium.com/@Coursesteach/deep-learning-part-13-gradient-descent-on-m-examples-bf50438f9f9c)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
 ### Week 3-**📚Chapter 3 Python and Vectorization**
-| Topic Name/Tutorial| Video | Code |
+| Topic Name/Tutorial| Video | Notebook |
 |---|---|---|
 |[**🌐1-Vectorization**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1VRqm_Rnkff3LlfqBKEXdhaWxP6Tq02d1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐2-More Vectorization Examples**](https://medium.com/@Coursesteach/deep-learning-part-14-vectorization-21b6120f9d4b)|[**1**](https://drive.google.com/file/d/1LVLtz9w3b75fo1cAK-L27bLQQ1AODDjb/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
@@ -79,7 +79,7 @@ If you want to contact me, you can reach me through social handles.
 |[**🌐4-Vectorizing Logistic Regression’s Gradient Output**](https://medium.com/@Coursesteach/deep-learning-part-17-vectorizing-logistic-regressions-gradient-output-14ac3d4bf91c)|[**1**](https://drive.google.com/file/d/1s9s24F8LhvrlIEggRUH4lVSARu_vhy_L/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
 ### Week 4-**📚Chapter4: Shallow Neural Network**
-| Topic Name/Tutorial| Video | Code |
+| Topic Name/Tutorial| Video | Notebook |
 |---|---|---|
 |[**🌐1-Neural Networks Overview**](https://medium.com/@Coursesteach/deep-learning-part-18-neural-networks-overview-992f2ed9d1d7)|[**1**](https://drive.google.com/file/d/1QBfz3m2N9K4oDtK4lKFUsgDKY3Rlr--_/view)[-2](https://www.youtube.com/watch?v=uxjTqBBLDLc)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐2-Neural Network Representation**](https://medium.com/@Coursesteach/deep-learning-part-19-neural-network-representation-6d352c922c4e)|[**1**](https://drive.google.com/file/d/14Dg60DlshucxBzz_Mg7QZCvNuisnRLOw/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
@@ -94,7 +94,7 @@ If you want to contact me, you can reach me through social handles.
 |[**🌐11-Random Initialization?**](https://medium.com/@Coursesteach/deep-learning-part-27-random-initialization-b25ef8df8334)|[**1**](https://drive.google.com/file/d/1ynAhOUck7mZq3kszHk_XjrcJcZIGG5qF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
 ### Week 5-**📚Chapter5:Deep Neural Network**
-| Topic Name/Tutorial| Video | Code |
+| Topic Name/Tutorial| Video | Notebook |
 |---|---|---|
 |[**🌐1-Deep L-layer Neural Network**](https://medium.com/@Coursesteach/deep-learning-part-29-deep-l-layer-neural-network-ae01928aa68a)|[**1**](https://drive.google.com/file/d/1C55dUaouJBkKxf8P4fGZ-w-WDZAP75K3/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[**🌐2-Forward Propagation in a Deep Network**](https://medium.com/@Coursesteach/deep-learning-part-30-forward-propagation-in-a-deep-network-df65458904f3)|[**1**](https://drive.google.com/file/d/1X6Ufc8fsf7x0A_yHhw-f8QKwDBpmERjJ/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
