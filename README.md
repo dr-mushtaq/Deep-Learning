@@ -46,7 +46,7 @@ If you want to contact me, you can reach me through social handles.
 
  ***
 <details> 
-<summary> <h2>Course 1 - 🧠Neural Networks and Deep Learning </h2> </summary>
+<summary> <h2>Course 1 - 🧠Deep Learning-Neural Networks </h2> </summary>
   
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Topic Name/Tutorial | Video | Code|
