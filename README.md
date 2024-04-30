@@ -105,6 +105,21 @@ If you want to contact me, you can reach me through social handles.
 |[**🌐7-Parameters vs Hyperparameters**](https://medium.com/@Coursesteach/deep-learning-part-35-parameters-vs-hyperparameters-11c9beff5eb6)|[**1**](https://drive.google.com/file/d/11aCdxKR_FRliq3IJwUaWJnDHdPmztfQi/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 </details>
 
+ ***
+<details> 
+<summary> <h2>Course 1 - 🧠Deep Learning-Neural Networks </h2> </summary>
+  
+  ### Week 1-**📚Chapter1: Introduction of Deep learning**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Understanding Basic Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-1-86757cf5a0c3) | [1](https://drive.google.com/file/d/11qLSQ0yE9vzUs77HvfOrQSKMBh8qfdHS/view)[-2](https://drive.google.com/file/d/1w4msKjdoNrUHNE7sW4nOfMbDQuo5TMF0/view)[-3](https://drive.google.com/file/d/1k4oWJ8ykTTciMMvwhM0sdaMUxTe69kuC/view?usp=sharing)[-4](https://drive.google.com/file/d/1fm-FuX6YZROxt1S-MNAR7Dym0TwS5usI/view) | Content 3 |
+| [🌐**2-Supervised Learning with Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
+|[🌐**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|[-1](https://drive.google.com/file/d/1nX_WqPZVeqAZIowyj72-IqOkTHJWnAOS/view?usp=sharing)|---|
+|[🌐**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|[1](https://drive.google.com/file/d/1ewpU3lXmwkV11TSqryJmFZDOGOGDAgt-/view)|---|
+|[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
+
+</details>
+
 <details> 
 <summary> <h2>🗞️📚Other Best Free Resources to Learn Deep Learning </h2> </summary>
  
