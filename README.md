@@ -107,7 +107,7 @@ If you want to contact me, you can reach me through social handles.
 
  ***
 <details> 
-<summary> <h2>Course 1 - 🧠Deep Learning-Neural Networks </h2> </summary>
+<summary> <h2>Course 2 - 🧠Improving Deep Neural Network </h2> </summary>
   
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Topic Name/Tutorial | Video | Code|
@@ -119,6 +119,7 @@ If you want to contact me, you can reach me through social handles.
 |[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
 
 </details>
+ ***
 
 <details> 
 <summary> <h2>🗞️📚Other Best Free Resources to Learn Deep Learning </h2> </summary>
