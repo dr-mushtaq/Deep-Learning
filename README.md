@@ -119,6 +119,7 @@ If you want to contact me, you can reach me through social handles.
 |[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
 
 </details>
+
  ***
 
 <details> 
