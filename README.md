@@ -108,10 +108,10 @@ If you want to contact me, you can reach me through social handles.
 <details> 
 <summary> <h2>Course 2 - 🧠Improving Deep Neural Network </h2> </summary>
   
-  ### Week 1-**📚Chapter1: Introduction of Deep learning**
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
-| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| Content 3 |
+| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | [🌐**2-Supervised Learning with Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-2-ba1c433d051b) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
 |[🌐**3-Exploring the Different Types of Artificial Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-4-906b292a9fbf)|[-1](https://drive.google.com/file/d/1nX_WqPZVeqAZIowyj72-IqOkTHJWnAOS/view?usp=sharing)|---|
 |[🌐**4- Why is Deep Learning taking off?**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|[1](https://drive.google.com/file/d/1ewpU3lXmwkV11TSqryJmFZDOGOGDAgt-/view)|---|
