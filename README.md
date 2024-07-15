@@ -115,7 +115,7 @@ If you want to contact me, you can reach me through social handles.
 | [🌐**2-Bias Variance**](https://medium.com/@Coursesteach/deep-learning-part-37-bias-variance-3837b4f6caa1) |[1](https://drive.google.com/file/d/1F2BvP9xODTdiAsfQMAgZMxhpY6vYagcV/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[🌐**3-Basic Recipe for Machine Learning**](https://medium.com/@Coursesteach/deep-learning-part-34-basic-recipe-for-machine-learning-89a5a83beb6a)|[-1](https://drive.google.com/file/d/1fXHTX2jAoLXMICqz5tjOG9rKykW--Zn3/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[🌐**4- Regularization**](https://medium.com/@Coursesteach/deep-learning-part-35-regularization-93bcc16cc4c0)|[1](https://drive.google.com/file/d/118RJWFDNHuyK4hesKcAcs5NyMnFD2kfL/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
-|[🌐**5-Best Free Resources to Learn Deep learning (DL)**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
+|[🌐**5-Why Regularization Reduces Overfitting**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|[1](https://drive.google.com/file/d/1aSFhJ5n3T37z7SxeVwr8y94enGNf4TLQ/view)|---|
 
 </details>
 
