@@ -118,6 +118,7 @@ If you want to contact me, you can reach me through social handles.
 |[🌐**5-Why Regularization Reduces Overfitting**](https://medium.com/@Coursesteach/deep-learning-part-36-why-regularization-reduces-overfitting-4800f3f6658b)|[1](https://drive.google.com/file/d/1aSFhJ5n3T37z7SxeVwr8y94enGNf4TLQ/view)|---|
 |[🌐**6- Dropout Regularization**](https://medium.com/@Coursesteach/deep-learning-part-37-dropout-regularization-fed4b6064052)|[1](https://drive.google.com/file/d/1v1vu8JtW8rN1U94InZKJLGpCAWZuzySt/view)[-2](https://drive.google.com/file/d/1nb4TSt-oFzXV4Ku0wpBGK49IBPjOU0fV/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[🌐**7- Other Regularization Methods**](https://medium.com/@Coursesteach/deep-learning-part-38-data-augmentation-and-early-stopping-17e6298dba1a)|[1](https://drive.google.com/file/d/18vQ5IPBgpfsdlJn1h0SRZEr3kJbveiF_/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+|[🌐**8- Normalizing Inputs**](https://medium.com/@Coursesteach/deep-learning-part-39-normalizing-inputs-72f590961e72)|[1](https://drive.google.com/file/d/1gFhmuoQMpuZxlnWjF_o7DDUba4futKYj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 </details>
 
  ***
