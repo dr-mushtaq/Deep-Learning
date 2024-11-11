@@ -123,6 +123,11 @@ If you want to contact me, you can reach me through social handles.
 |[🌐**10- Weight Initialization for Deep Networks**](https://medium.com/@Coursesteach/deep-learning-part-41-weight-initialization-for-deep-networks-a1f89f5218ce)|[1](https://drive.google.com/file/d/1ZYPt6dqEhvfr5TAHo1bFpaGi8rJ0BZH7/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[🌐**11- Numerical Approximation of Gradients**](https://medium.com/@Coursesteach/deep-learning-part-42-numerical-approximation-of-gradients-560e5600b83a)|[1](https://drive.google.com/file/d/1OjSuOnM081DNy-40xENb6nDzpkmVZbtc/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 |[🌐**12- How Gradient Checking Can Save You Time and Help Debug Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-43-how-gradient-checking-can-save-you-time-and-help-debug-neural-networks-27cd5da8770c)|[1](https://drive.google.com/file/d/1B1jr30qO33uy26MzsxjvUG_7XR6--s9s/view)[-2](https://drive.google.com/file/d/1WHTK6bzvBSsQgm8bxtAcNvO_BaYMyJOY/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+  
+  ### Week 2-**📚Chapter2:Optimization Algorithms**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
