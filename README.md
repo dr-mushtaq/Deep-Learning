@@ -60,7 +60,7 @@ If you want to contact me, you can reach me through social handles.
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Topic Name/Tutorial | Video | Notebook |
 |---|---|---|
-| [🌐**1- Binary Classification**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | [1](https://drive.google.com/file/d/1n-Fql88ISifq20Fu77etvKQa5gPscB-v/view) | Content 3 |
+| [🌐**1- Binary Classification⭐**](https://medium.com/@Coursesteach/deep-learning-part-5-365a718c7f9b) | [1](https://drive.google.com/file/d/1n-Fql88ISifq20Fu77etvKQa5gPscB-v/view) | Content 3 |
 |[🌐**2-  Logistic Regression**](https://medium.com/@Coursesteach/deep-learning-part-6-f266039e1820) |[1](https://drive.google.com/file/d/1A9YOhkuHjX3pI-MkWtECwFnswZvq5eEn/view)[-2](https://drive.google.com/file/d/1tN02xXb_DzbJoeJgIg1cEvHUHiMJAqi0/view)| Content 6 |
 |[🌐**3- Understanding the Logistic Regression Cost Function**](https://medium.com/@Coursesteach/deep-learning-part-7-6e78057a9ca6)|[1](https://drive.google.com/file/d/1U4nzfo3JjSjI32zRAnM_o3oszLbljUs_/view)|---|
 |[🌐**4-Understanding the Logistic Regression Gradient Descent**](https://medium.com/@Coursesteach/deep-learning-part-8-05718b250906)|[**1**](https://drive.google.com/file/d/1RbY5DMHBROBxoo1E9J5JzLOLNOqrucTy/view)[**-2**](https://www.youtube.com/watch?v=hfMk-kjRv4c&ab_channel=SebastianLague)|---|
