@@ -128,6 +128,7 @@ If you want to contact me, you can reach me through social handles.
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
 | [🌐**1-Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| [🌐**2-Understanding Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/how-mini-batch-gradient-descent-boosts-your-neural-network-training-efficiency-dl-part-44-317fe9fe1b4e) | [1](https://drive.google.com/file/d/1pCTvJMaXcoWYBoTcZfiLxRfhU01XXH8v/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
