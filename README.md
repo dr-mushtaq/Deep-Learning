@@ -55,7 +55,7 @@ If you want to contact me, you can reach me through social handles.
 | [🌐**2-Supervised Learning with Neural Networks⭐**](https://substack.com/home/post/p-156834081) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
 |[🌐**3-Exploring the Different Types of Artificial Neural Networks⭐**](https://open.substack.com/pub/mushtaqmsit/p/exploring-the-most-popular-types?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|[-1](https://drive.google.com/file/d/1nX_WqPZVeqAZIowyj72-IqOkTHJWnAOS/view?usp=sharing)|---|
 |[🌐**4- Why is Deep Learning taking off?⭐**](https://medium.com/@Coursesteach/deep-learning-part-3-2f65e2b67c2)|[1](https://drive.google.com/file/d/1ewpU3lXmwkV11TSqryJmFZDOGOGDAgt-/view)|---|
-|[🌐**5-Best Free Resources to Learn Deep learning (DL)⭐**](https://medium.com/@Coursesteach/best-free-resources-to-learn-deep-learning-dl-a301d809c41d)|---|---|
+|[🌐**5-Best Free Resources to Learn Deep learning (DL)⭐**](https://open.substack.com/pub/mushtaqmsit/p/top-free-resources-to-learn-deep?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|---|---|
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Topic Name/Tutorial | Video | Notebook |
