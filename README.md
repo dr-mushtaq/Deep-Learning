@@ -192,9 +192,10 @@ If you want to contact me, you can reach me through social handles.
 
 
 ## 👁️ Chapter1: - **Important Library and Packages**
-| Title/link| Description | Code |
+| Title| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**🌐1- Prompt Library**](https://www.promptly.fyi/library)|Find Prompt|---|
+|[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
 </details>
 
 ## 💻 Workflow:
