@@ -167,9 +167,9 @@ If you want to contact me, you can reach me through social handles.
 |[**🌐1-Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
 |[**🌐2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
 ## 👁️ Chapter2: - **Important Website**
-| Title/link| Description | Code |
+| Title| Description | Status |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**🌐1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6)|Provide complet Roadmap about AI Courses|---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
