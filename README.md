@@ -133,6 +133,7 @@ If you want to contact me, you can reach me through social handles.
 | [🌐**4-Understanding Exponentially Weighted Averages⭐**](https://medium.com/@Coursesteach/understanding-exponentially-weighted-averages-key-insights-and-implementation-3fd6b53613e0) | [1](https://drive.google.com/file/d/1NMLG-qAeezveVoi5wGPpUPcSiadJFNzi/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**5-Bias Correction in Exponentially Weighted Averages⭐**| [1](https://drive.google.com/file/d/11SIrM3k7mUrNBB0fVI9esID8x2G6_JRw/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**6-Gradient Descent with Momentum⭐**| [1](https://drive.google.com/file/d/1yRr1knCYlQmLbFzrlMhyaudcENSufmFt/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**7-RMSprop⭐**| [1](https://drive.google.com/file/d/1zmQjDlBLNjYI-5i-xHEahTJH7q5hDXdO/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
