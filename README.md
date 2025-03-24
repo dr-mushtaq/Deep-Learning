@@ -136,7 +136,7 @@ If you want to contact me, you can reach me through social handles.
 
 </details>
 
-details> 
+<details> 
 <summary> <h2>Course 3 - 🧠Structuring Machine Learning Projects </h2> </summary>
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
@@ -146,7 +146,7 @@ details>
 
 </details>
 
-details> 
+<details> 
 <summary> <h2>Course 4 - 🧠Convolutional Neural Networks </h2> </summary>
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
@@ -156,7 +156,7 @@ details>
 
 </details>
 
-details> 
+<details> 
 <summary> <h2>Course 5 - 🧠Sequence Models </h2> </summary>
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
