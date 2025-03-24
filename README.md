@@ -134,8 +134,38 @@ If you want to contact me, you can reach me through social handles.
 | 🌐**5-Bias Correction in Exponentially Weighted Averages⭐**| [1](https://drive.google.com/file/d/11SIrM3k7mUrNBB0fVI9esID8x2G6_JRw/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**6-Gradient Descent with Momentum⭐**| [1](https://drive.google.com/file/d/1yRr1knCYlQmLbFzrlMhyaudcENSufmFt/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
+</details>
+
+details> 
+<summary> <h2>Course 3 - 🧠Structuring Machine Learning Projects </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
+
+details> 
+<summary> <h2>Course 4 - 🧠Convolutional Neural Networks </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+
+</details>
+
+details> 
+<summary> <h2>Course 5 - 🧠Sequence Models </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+
+</details>
+
 
  ***
 
