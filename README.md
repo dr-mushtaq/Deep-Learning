@@ -134,6 +134,14 @@ If you want to contact me, you can reach me through social handles.
 | 🌐**5-Bias Correction in Exponentially Weighted Averages⭐**| [1](https://drive.google.com/file/d/11SIrM3k7mUrNBB0fVI9esID8x2G6_JRw/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**6-Gradient Descent with Momentum⭐**| [1](https://drive.google.com/file/d/1yRr1knCYlQmLbFzrlMhyaudcENSufmFt/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**7-RMSprop⭐**| [1](https://drive.google.com/file/d/1zmQjDlBLNjYI-5i-xHEahTJH7q5hDXdO/view)[-2](https://www.youtube.com/watch?v=NE88eqLngkg)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**8-Adam Optimization Algorithm**| [1](https://drive.google.com/file/d/1RvIjVME4MhRtDFhEqvJcmuWH_-3UyKBL/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**9-Learning Rate Decay**| [1](https://drive.google.com/file/d/1pH_2t4JU4g_fsXULitBMVK-3RwaaYjx2/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**10-The Problem of Local Optima**| [1](https://drive.google.com/file/d/1kH3zFdj74McGu9r6qYHSWPLAGtEwUN-v/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+ 
+ ### Week 3-**📚Chapter3:Hyperparameter tunning , Batch Normalization and Programming Frameworks**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
