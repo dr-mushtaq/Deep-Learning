@@ -205,6 +205,7 @@ If you want to contact me, you can reach me through social handles.
 |---|---|---|
 |[**✅1-Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
 |[**✅2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
+|[**✅2-eural Networks: Zero to Hero**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Neural%20Networks:%20Zero%20to%20Hero)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
