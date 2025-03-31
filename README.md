@@ -127,7 +127,7 @@ If you want to contact me, you can reach me through social handles.
   ### Week 2-**📚Chapter2:Optimization Algorithms**
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
-| [🌐**1-Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| **1-Mini-batch Gradient Descent⭐**| [1](https://drive.google.com/file/d/15quOLerX2DYsAKpaz9RkE5fVYkXTyQrq/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | [🌐**2-Understanding Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/how-mini-batch-gradient-descent-boosts-your-neural-network-training-efficiency-dl-part-44-317fe9fe1b4e) | [1](https://drive.google.com/file/d/1pCTvJMaXcoWYBoTcZfiLxRfhU01XXH8v/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | [🌐**3-Exponentially Weighted Averages⭐**](https://medium.com/@Coursesteach/understanding-exponentially-weighted-averages-the-foundation-of-faster-optimization-algorithms-c0484fdc844c) | [1](https://drive.google.com/file/d/1oXoM_DmMK0ytAWq5NejzUyDWQSEO4Bs6/view)[-2](https://www.youtube.com/watch?v=XV1f_srZg_E)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | [🌐**4-Understanding Exponentially Weighted Averages⭐**](https://medium.com/@Coursesteach/understanding-exponentially-weighted-averages-key-insights-and-implementation-3fd6b53613e0) | [1](https://drive.google.com/file/d/1NMLG-qAeezveVoi5wGPpUPcSiadJFNzi/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
@@ -141,7 +141,7 @@ If you want to contact me, you can reach me through social handles.
  ### Week 3-**📚Chapter3:Hyperparameter tunning , Batch Normalization and Programming Frameworks**
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
-| [🌐**1-Mini-batch Gradient Descent⭐**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| [🌐**1-Tuning Process**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
