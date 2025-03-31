@@ -142,6 +142,7 @@ If you want to contact me, you can reach me through social handles.
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
 | **1-Tuning Process**| [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| **2-Using an Appropriate Scale to pick Hyperparameters**| [1](https://drive.google.com/file/d/1Quw_ywnDqJPmWIGU-b6-xA7CzfMfB8oO/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
