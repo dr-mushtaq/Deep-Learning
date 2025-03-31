@@ -141,7 +141,7 @@ If you want to contact me, you can reach me through social handles.
  ### Week 3-**📚Chapter3:Hyperparameter tunning , Batch Normalization and Programming Frameworks**
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
-| [🌐**1-Tuning Process**](https://medium.com/@Coursesteach/understanding-mini-batch-gradient-descent-in-deep-learning-dl-part-43-396d1d269689) | [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| **1-Tuning Process**| [1](https://drive.google.com/file/d/1CfTMqaOyy6NSErc5IkiYeWP7CblYqGxQ/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
