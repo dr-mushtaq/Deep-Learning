@@ -27,7 +27,7 @@ Advanced Algorithms: Exploring advanced Deep Learning architectures and algorith
 
 Statistical Methods and Techniques: Discussing statistical methods and techniques commonly used in Deep Learning, such as hypothesis testing, probability distributions, dimensionality reduction, and Bayesian inference.
 
-**## Why Contribute?**
+## **Why Contribute?**
 
 1- **Share Your Expertise**: If you have knowledge or insights in Deep learning , your contributions can assist others in learning and applying these concepts.
 
