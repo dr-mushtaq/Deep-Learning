@@ -38,11 +38,17 @@ Contributions are welcome! Whether it's fixing a bug, enhancing existing content
 
  Star this repo if you find it useful ⭐
 
- <h2>📬 Contact</h2>
+## **🌍 Join Our Community**
 
-If you want to contact me, you can reach me through social handles.
+🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/90909828/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CourseTeach)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coursesteach.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>]( 0000-0002-7238-7924)
+🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
+
+🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
+
+🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
+
+📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
  ***
 <details> 
