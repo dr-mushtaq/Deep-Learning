@@ -31,9 +31,21 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 
 Explore the repository's contents, follow the structured learning path, and leverage the provided code examples, exercises, and projects to deepen your understanding of Deep Learning concepts and techniques.
 
-## **Contributing🙌**
+## **💡 How to Participate?**
 
-Contributions are welcome! Whether it's fixing a bug, enhancing existing content, or adding new material, your contributions can help enrich the learning experience for others. Please contact to the my **skype ID:themushtaq48** for guidelines on how to contribute.
+🚀 Fork & Star this repository
+
+👩‍💻 Explore and Learn from structured lessons
+
+🔧 Enhance the current blog or code, or write a blog on a new topic
+
+🔧 Implement & Experiment with provided code
+
+🤝 Collaborate with fellow DL enthusiasts
+
+📌 Contribute your own implementations & projects
+
+📌 Share valuable blogs, videos, courses, GitHub repositories, and research websites
 
 
  Star this repo if you find it useful ⭐
