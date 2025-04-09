@@ -263,6 +263,13 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 |---|---|---|
 |[**🌐1- Prompt Library**](https://www.promptly.fyi/library)|Find Prompt|---|
 |[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
+
+## 👁️ Chapter1: - **Important Research Papers**
+| Title| Description | Status|
+|---|---|---|
+|[**✅1- Learning to learn by gradient descent by gradient descent**](https://proceedings.neurips.cc/paper/2016/hash/fb87582825f9d28a8d42c5e5e5e8b23d-Abstract.html)|---|Pending|
+|[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
+</details>
 </details>
 
 ## 💻 Workflow:
