@@ -246,7 +246,7 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1- Linear Algebra and Optimization for Machine Learning**](https://macro.com/app/pdf/d885fcad-84b5-4ba4-a03e-6f931d746dc5)|It is Videos and github|---|
 
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
