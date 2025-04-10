@@ -199,9 +199,18 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 | [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
-
-
  ***
+
+ <details> 
+<summary> <h2>Course 5 - 🧠Graph Neural Networks </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+
+</details>
+***
 
 <details> 
 <summary> <h2>🗞️📚Other Best Free Resources to Learn Deep Learning </h2> </summary>
