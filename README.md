@@ -149,6 +149,7 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 |[🌐**12- How Gradient Checking Can Save You Time and Help Debug Neural Networks**](https://medium.com/@Coursesteach/deep-learning-part-43-how-gradient-checking-can-save-you-time-and-help-debug-neural-networks-27cd5da8770c)|[1](https://drive.google.com/file/d/1B1jr30qO33uy26MzsxjvUG_7XR6--s9s/view)[-2](https://drive.google.com/file/d/1WHTK6bzvBSsQgm8bxtAcNvO_BaYMyJOY/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
   
   ### Week 2-**📚Chapter2:Optimization Algorithms**
+  Dive deeper into neural network optimization techniques in Week 2 of our Deep Learning series. This chapter covers key optimization algorithms that help accelerate and stabilize training, with hands-on videos, Medium tutorials, and Colab notebooks for each concept.
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
 | **1-Mini-batch Gradient Descent⭐**| [1](https://drive.google.com/file/d/15quOLerX2DYsAKpaz9RkE5fVYkXTyQrq/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
