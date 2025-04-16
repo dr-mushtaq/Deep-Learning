@@ -255,6 +255,8 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Linear Algebra and Optimization for Machine Learning**](https://macro.com/app/pdf/d885fcad-84b5-4ba4-a03e-6f931d746dc5)|It is Videos and github|---|
+|[**✅1- Dive into Deep Learning**](https://d2l.ai/index.html)|Interactive deep learning book with code, math, and discussions|---|
+
 
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |
