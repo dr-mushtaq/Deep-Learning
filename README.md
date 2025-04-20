@@ -68,6 +68,18 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 
 📬 Need Help? Connect with us on [**WhatsApp**](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
 
+## 📬 Stay Updated with Weekly Deep Learning Lessons!
+
+Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
+**Join hundreds of Deep Learning learners on Substack.**
+
+👉 [**Subscribe to Our Deep Learning Newsletter**](https://substack.com/@coursesteach) ✨
+
+💡 Optional Badge (to make it pop)
+
+[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
+
+
  ***
 <details> 
 <summary> <h2>Course 1 - 🧠Deep Learning-Neural Networks </h2> </summary>
