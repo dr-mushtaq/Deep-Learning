@@ -104,7 +104,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[✅**6-Computation Graph⭐**](https://mushtaqmsit.substack.com/p/understanding-computational-graphs)|[**1**](https://drive.google.com/file/d/1mKrtl70Hk_mkvAxtz6UOi57L2Owhef8J/view)[**-2**](https://drive.google.com/file/d/1VsCUNq_2Lk0w8sRuKOH75cTuf4OTzW-0/view?usp=sharing)|---|
 |[✅***7-Derivatives with a Computation Graph**](https://mushtaqmsit.substack.com/p/backpropagation-and-chain-rule-i)|[**1**](https://drive.google.com/file/d/1ZelegkpamdCz55a3fqNRT85lsy5A6mna/view)|---|
 |[✅**8-Logistic Regression Gradient Descent⭐**](https://mushtaqmsit.substack.com/p/step-by-step-guide-to-gradient-descent)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|---|
-|[🌐**9-Gradient Descent on m Examples⭐**](https://medium.com/@Coursesteach/deep-learning-part-13-gradient-descent-on-m-examples-bf50438f9f9c)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
+|[✅**9-Gradient Descent on m Examples⭐**](https://mushtaqmsit.substack.com/p/gradient-descent-for-logistic-regression)|[**1**](https://drive.google.com/file/d/1caCld7LtDzYwS0Btatb_kP78ePM0etbn/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb)|
 
 ### Week 3-**📚Chapter 3 Python and Vectorization**
 | Topic Name/Tutorial| Video | Notebook |
