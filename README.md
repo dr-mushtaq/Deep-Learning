@@ -259,7 +259,12 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Title| Description | Status |
 |---|---|---|
 |[**🌐1-Roadmap.sh**](https://roadmap.sh/r/llm-engineer-ay1q6)|Provide complet Roadmap about AI Courses|---|
-|[**🌐1-Bolt**](https://bolt.new/)|write softare code and deployed |---|
+|[**🌐2-Bolt**](https://bolt.new/)|write softare code and deployed |---|
+|[**✅3-Kaggle Notebooks**](https://www.kaggle.com/code)|offers up to 30 hours of free GPU time per week|---|
+|[**✅4-Google Colab**](https://colab.research.google.com/)|Google Colab offers free GPU and TPU resources.|---|
+|[**✅5-Amazon SageMaker**](https://roadmap.sh/r/llm-engineer-ay1q6)|Amazon SageMaker Studio Lab offers free CPU and GPU. No credit card or AWS account required|---|
+|[**✅6-Gradient/Paperspace**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
+|[**✅7-Microsoft Azure for Student Account**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
 
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
