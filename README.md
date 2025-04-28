@@ -85,13 +85,15 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <summary> <h2>Course 1 - 🧠Deep Learning-Neural Networks </h2> </summary>
   
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
-| Topic Name/Tutorial | Video | Code|
-|---|---|---|
+| Topic Name/Tutorial | Video | Code|Todo list|
+|---|---|---|---|
 | [✅**1-Understanding Basic Neural Networks g**](https://mushtaqmsit.substack.com/p/understanding-basic-neural-networks?r=f2squ&utm_campaign=post&utm_medium=web&triedRedirect=true) | [1](https://drive.google.com/file/d/11qLSQ0yE9vzUs77HvfOrQSKMBh8qfdHS/view)[-2](https://drive.google.com/file/d/1w4msKjdoNrUHNE7sW4nOfMbDQuo5TMF0/view)[-3](https://drive.google.com/file/d/1k4oWJ8ykTTciMMvwhM0sdaMUxTe69kuC/view?usp=sharing)[-4](https://drive.google.com/file/d/1fm-FuX6YZROxt1S-MNAR7Dym0TwS5usI/view)[-5](https://drive.google.com/file/d/15WzhYZDNe32MLrHgeM1ewGM9jBViRD4d/view) | Content 3 |
 | [✅**2-Supervised Learning with Neural Networks⭐**](https://substack.com/home/post/p-156834081) |[1](https://drive.google.com/file/d/1v-cdyxqInCwUUNDVIaQiik_NXKWDS1Cc/view) | Content 6 |
 |[✅**3-Exploring the Different Types of Artificial Neural Networks⭐**](https://open.substack.com/pub/mushtaqmsit/p/exploring-the-most-popular-types?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|[-1](https://drive.google.com/file/d/1nX_WqPZVeqAZIowyj72-IqOkTHJWnAOS/view?usp=sharing)|---|
 |[✅**4- Why is Deep Learning taking off?⭐**](https://open.substack.com/pub/mushtaqmsit/p/why-is-deep-learning-so-powerful?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1](https://drive.google.com/file/d/1ewpU3lXmwkV11TSqryJmFZDOGOGDAgt-/view)|---|
 |[✅**5-Best Free Resources to Learn Deep learning (DL)⭐**](https://open.substack.com/pub/mushtaqmsit/p/top-free-resources-to-learn-deep?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|---|---|
+|[✅**6-GPU-CPU-TPU⭐**](https://www.kdnuggets.com/building-a-gpu-machine-vs-using-the-gpu-cloud?fbclid=IwAR3Vg9DZlwbophv7lLqYwh128MvxKvgqrYzSBtUQDXCmR6AbyJuaNTpi9IE)|---|---|write blog|
+   
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
 | Topic Name/Tutorial | Video | Notebook |
