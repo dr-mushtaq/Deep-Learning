@@ -255,6 +255,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
 |[**✅2-eural Networks: Zero to Hero**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Neural%20Networks:%20Zero%20to%20Hero)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅3-Practical Deep Learning**](https://course.fast.ai/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
@@ -285,6 +286,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ)|Github repisotry contain couress| Pending|
 |[**✅3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**✅4-courses & resources**](https://github.com/SkalskiP/courses#cr%C3%A8me-de-la-cr%C3%A8me-of-ai-courses)|Github repisotry contain couress| Pending|
+|[**✅5-PyTorch Fundamentals**](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)|Github repisotry contain couress| Pending|
 
 
 
