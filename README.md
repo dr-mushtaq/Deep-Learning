@@ -255,6 +255,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
 |[**✅2-eural Networks: Zero to Hero**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Neural%20Networks:%20Zero%20to%20Hero)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅3-Practical Deep Learning**](https://course.fast.ai/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅4-Deep Learning- Texas Austin**](https://ut.philkr.net/deeplearning/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
