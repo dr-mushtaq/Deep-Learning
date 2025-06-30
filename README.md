@@ -53,6 +53,26 @@ Statistical Methods and Techniques: Discussing statistical methods and technique
 
 📌 Share valuable blogs, videos, courses, GitHub repositories, and research websites
 
+## 🎓 **Enrolled Courses**
+
+Please enrolled in the following courses to strengthen knowledge and practical skills in Deep Learning. These courses are designed to provide both theoretical understanding and hands-on experience with real-world DL applications.
+
+🔗 [**Improving Deep Neural Networks!**](https://coursesteach.com/course/view.php?id=245)
+
+1- Covers foundational concepts such as tokenization, POS tagging, lemmatization, and basic text classification.
+
+🔗 [**NLP Probabilistic Models**](https://coursesteach.com/enrol/index.php?id=187)
+
+1- Focuses on probabilistic techniques including n-gram models, Naive Bayes, and Hidden Markov Models.
+
+
+🔗 [**NLP with Sequence Model**](https://coursesteach.com/enrol/index.php?id=256)
+
+1. Explores advanced topics such as RNNs, LSTMs, GRUs, and their application in language modeling and machine translation.
+
+💡 These courses are part of a structured NLP curriculum offered by Coursesteach, designed by Couresteach team, and emphasize practical implementation using Python and deep learning libraries.
+
+
 
  Star this repo if you find it useful ⭐
 
