@@ -64,9 +64,9 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 1- Covers foundational concepts such as Optimization Algorithms,Hyperparamter tunning etc.
 
-🔗 [**NLP Probabilistic Models**](https://coursesteach.com/enrol/index.php?id=187)
+🔗 [**Deep Learning- Neural Network**](https://coursesteach.com/course/view.php?id=181)
 
-1- Focuses on probabilistic techniques including n-gram models, Naive Bayes, and Hidden Markov Models.
+1- Focuses Funcation Concept of deep learning ,such as ,Deep learning, ANN etc
 
 
 🔗 [**NLP with Sequence Model**](https://coursesteach.com/enrol/index.php?id=256)
