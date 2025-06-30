@@ -68,12 +68,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 1- Focuses Funcation Concept of deep learning ,such as ,Deep learning, ANN etc
 
-
-🔗 [**NLP with Sequence Model**](https://coursesteach.com/enrol/index.php?id=256)
-
-1. Explores advanced topics such as RNNs, LSTMs, GRUs, and their application in language modeling and machine translation.
-
-💡 These courses are part of a structured NLP curriculum offered by Coursesteach, designed by Couresteach team, and emphasize practical implementation using Python and deep learning libraries.
+💡 These courses are part of a structured Deep Learningcurriculum offered by Coursera, designed by Coursera team, and emphasize practical implementation using Python and deep learning libraries.
 
 
 
