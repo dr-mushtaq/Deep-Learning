@@ -59,7 +59,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 🔗 [**Improving Deep Neural Networks!**](https://coursesteach.com/course/view.php?id=245)
 
-1- Covers foundational concepts such as tokenization, POS tagging, lemmatization, and basic text classification.
+1- Covers foundational concepts such as Optimization Algorithms,Hyperparamter tunning etc.
 
 🔗 [**NLP Probabilistic Models**](https://coursesteach.com/enrol/index.php?id=187)
 
