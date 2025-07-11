@@ -286,6 +286,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅5-Amazon SageMaker**](https://roadmap.sh/r/llm-engineer-ay1q6)|Amazon SageMaker Studio Lab offers free CPU and GPU. No credit card or AWS account required|---|
 |[**✅6-Gradient/Paperspace**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
 |[**✅7-Microsoft Azure for Student Account**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
+|[**✅8-deeplearning.neuromatch.io**](https://deeplearning.neuromatch.io/tutorials/intro.html)| offers GPU and IPU instances with a free tier to get started|---|
 
 ## 👁️ Chapter2: - **Important Notbook**
 | Title| Description | Status |
