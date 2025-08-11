@@ -317,6 +317,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅3- ml-roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics)|Github repisotry contain couress| Pending|
 |[**✅4-courses & resources**](https://github.com/SkalskiP/courses#cr%C3%A8me-de-la-cr%C3%A8me-of-ai-courses)|Github repisotry contain couress| Pending|
 |[**✅5-PyTorch Fundamentals**](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)|Github repisotry contain couress| Pending|
+|[**✅6-Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems**](https://github.com/NirDiamant/rag_techniques)|Github repisotry contain couress| Pending|
 
 
 
