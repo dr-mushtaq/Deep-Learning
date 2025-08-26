@@ -322,7 +322,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 
-## 👁️ Chapter1: - **Important Library and Packages**
+## 👁️ Chapter1: - **Tools, Frameworks & Platforms**
+Understanding all the tools, frameworks, architectures, and ecosystems around AI can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending.
+Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
 | Title| Description | Code |
 |---|---|---|
 |[**🌐1- Prompt Library**](https://www.promptly.fyi/library)|Find Prompt|---|
