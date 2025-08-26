@@ -292,6 +292,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅6-Gradient/Paperspace**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
 |[**✅7-Microsoft Azure for Student Account**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
 |[**✅8-deeplearning.neuromatch.io**](https://deeplearning.neuromatch.io/tutorials/intro.html)| offers GPU and IPU instances with a free tier to get started|---|
+|[**✅9-Deep Learning Institute-nvidia**](https://www.nvidia.com/en-us/training/)| Free Course nvidia|---|
 
 ## 👁️ Chapter2: - **Important Notbook**
 | Title| Description | Status |
