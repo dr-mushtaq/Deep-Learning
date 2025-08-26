@@ -325,16 +325,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 👁️ Chapter1: - **Tools, Frameworks & Platforms**
 Understanding all the tools, frameworks, architectures, and ecosystems around AI can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending.
 Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
-| Title| Description | Code |
+| Title| Description | Tage |
 |---|---|---|
-|[**🌐1- Prompt Library**](https://www.promptly.fyi/library)|Find Prompt|---|
-|[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
+|[**✅1-  Hugging Face**](https://huggingface.co/)|A hub, that hosts models, datasets, apps, and communities around AI.|Frameworks|
+|[**✅2-  Gradio**](https://www.gradio.app/)|Create ML-powered apps for the web. Easy to use UI API|---|
 
 ## 👁️ Chapter1: - **Important Research Papers**
 | Title| Description | Status|
 |---|---|---|
 |[**✅1- Learning to learn by gradient descent by gradient descent**](https://proceedings.neurips.cc/paper/2016/hash/fb87582825f9d28a8d42c5e5e5e8b23d-Abstract.html)|---|Pending|
-|[**🌐2- Computer Science courses w**]()|It is Videos and github|---|
+|[**✅2- Computer Science courses w**]()|It is Videos and github|---|
 </details>
 </details>
 
