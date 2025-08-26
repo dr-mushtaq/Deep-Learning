@@ -328,7 +328,8 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 | Title| Description | Tage |
 |---|---|---|
 |[**✅1-  Hugging Face**](https://huggingface.co/)|A hub, that hosts models, datasets, apps, and communities around AI.|Frameworks|
-|[**✅2-  Gradio**](https://www.gradio.app/)|Create ML-powered apps for the web. Easy to use UI API|---|
+|[**✅2-  Gradio**](https://www.gradio.app/)|Create ML-powered apps for the web. Easy to use UI API|Developer Tools|
+|[**✅3-  Google Colab**](https://colab.research.google.com/)|You have seen probably many resources use Jupyter Notebooks, this platform allows you to run them.I|Developer Tools|
 
 ## 👁️ Chapter1: - **Important Research Papers**
 | Title| Description | Status|
