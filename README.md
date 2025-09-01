@@ -248,6 +248,33 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 </details>
 
+ <details> 
+<summary> <h2>Course 6 - 🧠Autoencoders </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|Extra Resources|
+|---|---|---|---|
+| 🌐**1-Introduction to Autoencoders**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
+</details>
+
+ <details> 
+<summary> <h2>Course 7 -⚡ Transformers </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|Extra Resources|
+|---|---|---|---|
+| 🌐**1-Introduction to Transformers**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
+</details>
+
+ <details> 
+<summary> <h2>Course 7 -Transfer Learning and Distillation </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|Extra Resources|
+|---|---|---|---|
+| 🌐**1-Transfer Learning**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
+</details>
+
 <details> 
 <summary> <h2>🗞️📚Other Best Free Resources to Learn Deep Learning </h2> </summary>
  
