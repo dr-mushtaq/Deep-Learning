@@ -293,6 +293,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅7-Microsoft Azure for Student Account**](https://www.paperspace.com/artificial-intelligence)| offers GPU and IPU instances with a free tier to get started|---|
 |[**✅8-deeplearning.neuromatch.io**](https://deeplearning.neuromatch.io/tutorials/intro.html)| offers GPU and IPU instances with a free tier to get started|---|
 |[**✅9-Deep Learning Institute-nvidia**](https://www.nvidia.com/en-us/training/)| Free Course nvidia|---|
+|[**✅10-Building a GPT from Scratch**](https://simonthomine.github.io/CoursDeepLearning/en/07_Transformers/02_GptFromScratch.html)|This page (from the "Building a GPT from Scratch" section of Simon Thomine’s Deep Learning course) walks you through implementing a character-level transformer-based language model in PyTorch—from dataset preprocessing to self-attention, multi-head attention, and full transformer blocks—using Molière’s plays as training data|---|
 
 ## 👁️ Chapter2: - **Important Notbook**
 | Title| Description | Status |
