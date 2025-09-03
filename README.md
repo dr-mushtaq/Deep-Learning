@@ -300,7 +300,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
 |---|---|---|
-|[**✅1-Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
+|[**✅1-Deep Learning Specialization by Andrew**](https://www.coursera.org/specializations/deep-learning?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
 |[**✅2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
 |[**✅2-eural Networks: Zero to Hero**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Neural%20Networks:%20Zero%20to%20Hero)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅3-Practical Deep Learning**](https://course.fast.ai/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
