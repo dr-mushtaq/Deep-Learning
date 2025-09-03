@@ -307,6 +307,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅4-Deep Learning- Texas Austin**](https://ut.philkr.net/deeplearning/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅5-Neural Networks / Deep Learning**](https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=3)|StatQuest with Josh Starmer| Pending|
 |[**✅6-Zero to Mastery Learn PyTorch for Deep Learning**](https://www.learnpytorch.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
+|[**✅7-Generative AI for Everyone by andrew**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
