@@ -349,6 +349,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅4-courses & resources**](https://github.com/SkalskiP/courses#cr%C3%A8me-de-la-cr%C3%A8me-of-ai-courses)|Github repisotry contain couress| Pending|
 |[**✅5-PyTorch Fundamentals**](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)|Github repisotry contain couress| Pending|
 |[**✅6-Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems**](https://github.com/NirDiamant/rag_techniques)|Github repisotry contain couress| Pending|
+|[**✅7-Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)|Github repisotry contain couress| Pending|
 
 
 
