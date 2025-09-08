@@ -358,9 +358,76 @@ Understanding all the tools, frameworks, architectures, and ecosystems around AI
 Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
 | Title| Description | Tage |
 |---|---|---|
-|[**✅1-  Hugging Face**](https://huggingface.co/)|A hub, that hosts models, datasets, apps, and communities around AI.|Frameworks|
-|[**✅2-  Gradio**](https://www.gradio.app/)|Create ML-powered apps for the web. Easy to use UI API|Developer Tools|
-|[**✅3-  Google Colab**](https://colab.research.google.com/)|You have seen probably many resources use Jupyter Notebooks, this platform allows you to run them.I|Developer Tools|
+## 👁️ Chapter 1: - **Deep Learning Tools, Frameworks & Platforms**
+
+Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms. Each serves a different purpose—from building models to deploying them, managing experiments, and scaling in production. Below is a categorized overview of the most widely used ones.  
+---
+
+### 🔧 **Core Frameworks**
+| Title | Description | Tag |
+|---|---|---|
+| [**✅ TensorFlow**](https://www.tensorflow.org/) | Google’s end-to-end open-source library for ML/DL, widely used for research and production. | Framework |
+| [**✅ PyTorch**](https://pytorch.org/) | Facebook’s deep learning framework, popular for flexibility and research. | Framework |
+| [**✅ Keras**](https://keras.io/) | High-level neural network API running on top of TensorFlow, user-friendly for rapid prototyping. | Framework |
+| [**✅ JAX**](https://jax.readthedocs.io/) | High-performance ML research library by Google with auto-differentiation & GPU/TPU support. | Framework |
+| [**✅ MXNet**](https://mxnet.apache.org/) | Apache’s deep learning framework, once widely used by AWS for large-scale DL. | Framework |
+| [**✅ Theano (legacy)**](https://github.com/Theano/Theano) | Pioneering DL library, now discontinued but historically important. | Legacy |
+
+---
+
+### 🧰 **Developer & Experimentation Tools**
+| Title | Description | Tag |
+|---|---|---|
+| [**✅ Jupyter Notebook**](https://jupyter.org/) | Interactive coding environment for ML/DL experiments. | Developer Tools |
+| [**✅ Google Colab**](https://colab.research.google.com/) | Free cloud-based Jupyter notebooks with GPU/TPU access. | Developer Tools |
+| [**✅ Kaggle Kernels**](https://www.kaggle.com/kernels) | Cloud notebooks with datasets, GPUs, and competitions. | Developer Tools |
+| [**✅ Gradio**](https://www.gradio.app/) | Build and share ML-powered apps easily with a web UI. | Developer Tools |
+| [**✅ Streamlit**](https://streamlit.io/) | Create interactive dashboards and ML applications quickly. | Developer Tools |
+
+---
+
+### 📊 **Experiment Tracking & MLOps**
+| Title | Description | Tag |
+|---|---|---|
+| [**✅ Weights & Biases (W&B)**](https://wandb.ai/) | Track experiments, visualize results, and manage ML projects. | MLOps |
+| [**✅ MLflow**](https://mlflow.org/) | Open-source platform for managing ML lifecycles. | MLOps |
+| [**✅ Neptune.ai**](https://neptune.ai/) | Metadata store for ML model tracking and collaboration. | MLOps |
+| [**✅ DVC**](https://dvc.org/) | Version control system for ML datasets and models. | MLOps |
+| [**✅ Comet ML**](https://www.comet.com/) | Experiment tracking and visualization for ML/DL. | MLOps |
+
+---
+
+### 🧠 **Pre-trained Models & Model Hubs**
+| Title | Description | Tag |
+|---|---|---|
+| [**✅ Hugging Face**](https://huggingface.co/) | Central hub for transformers, models, datasets, and communities. | Model Hub |
+| [**✅ TensorFlow Hub**](https://tfhub.dev/) | Repository of pre-trained TensorFlow models. | Model Hub |
+| [**✅ PyTorch Hub**](https://pytorch.org/hub/) | Pre-trained models ready to use with PyTorch. | Model Hub |
+| [**✅ ONNX Model Zoo**](https://github.com/onnx/models) | Open Neural Network Exchange pre-trained models. | Model Hub |
+
+---
+
+### 🖥️ **Deployment & Serving**
+| Title | Description | Tag |
+|---|---|---|
+| [**✅ TensorFlow Serving**](https://www.tensorflow.org/tfx/guide/serving) | Production-grade system for serving TF models. | Deployment |
+| [**✅ TorchServe**](https://pytorch.org/serve/) | Model serving library for PyTorch. | Deployment |
+| [**✅ ONNX Runtime**](https://onnxruntime.ai/) | Run ML models across frameworks and hardware. | Deployment |
+| [**✅ NVIDIA Triton Inference Server**](https://developer.nvidia.com/nvidia-triton-inference-server) | Scalable deployment for GPU-accelerated inference. | Deployment |
+
+---
+
+### ☁️ **Cloud Platforms for DL**
+| Title | Description | Tag |
+|---|---|---|
+| [**✅ Google Vertex AI**](https://cloud.google.com/vertex-ai) | End-to-end ML/DL platform on Google Cloud. | Cloud |
+| [**✅ AWS SageMaker**](https://aws.amazon.com/sagemaker/) | Amazon’s ML/DL service for building and deploying models. | Cloud |
+| [**✅ Azure ML Studio**](https://azure.microsoft.com/en-us/products/machine-learning/) | Microsoft’s ML/DL cloud environment. | Cloud |
+| [**✅ Paperspace Gradient**](https://gradient.paperspace.com/) | Cloud GPUs for training and deployment. | Cloud |
+| [**✅ Lambda Labs**](https://lambdalabs.com/) | GPU cloud and DL workstations. | Cloud |
+
+---
+
 
 ## 👁️ Chapter1: - **Important Research Papers**
 | Title| Description | Status|
