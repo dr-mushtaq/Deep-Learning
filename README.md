@@ -309,6 +309,25 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅6-Zero to Mastery Learn PyTorch for Deep Learning**](https://www.learnpytorch.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅7-Generative AI for Everyone by andrew**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 
+## 🔹 Chapter 4: - **List of Deep Learning Models**
+Deep Learning models come in different families, designed for specific tasks such as vision, language, speech, and generative AI. Below is a categorized list of important models.  
+| Category | Models | Notes |
+|---|---|---|
+| **Computer Vision (Classification)** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs & Vision Transformers) |
+| **Computer Vision (Detection & Segmentation)** | R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD, RetinaNet, DETR 🔴🔵, Mask R-CNN, FCN, U-Net, DeepLab, PSPNet, SegFormer 🔴🔵, SAM 🔴🔵 | Object detection & pixel-level segmentation |
+| **Generative Models** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image, video & art synthesis |
+| **NLP (Language Models)** | Word2Vec, GloVe, ELMo, BERT 🔴, RoBERTa 🔴, XLNet 🔴, ALBERT 🔴, GPT family 🔴, T5 🔴, BART 🔴, DistilBERT 🔴, LLaMA 🔴🔵, Falcon 🔴🔵, Mistral 🔴🔵 | Text representation, transformers & LLMs |
+| **Speech & Audio** | DeepSpeech, Wav2Vec 🔴, HuBERT 🔴, Whisper 🔴🔵, Conformer 🔴🔵 | Speech recognition & audio understanding |
+| **Multimodal Models** | CLIP 🔴🔵, Flamingo 🔴🔵, Kosmos-1 🔴🔵, GPT-4 🔴🔵, Gemini 🔴🔵 | Models combining vision, text, and sometimes audio |
+| **3D & Video Models** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
+---
+**Legend:**  
+- 🔴 Transformer-based  
+- 🔵 Introduced after 2020  
+
+---
+
+
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
