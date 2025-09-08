@@ -354,15 +354,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 ## 👁️ Chapter1: - **Tools, Frameworks & Platforms**
-Understanding all the tools, frameworks, architectures, and ecosystems around AI can sometimes feel harder than understanding AI itself. Below are the ones I’ve explored and used enough to feel confident recommending.
-Of course, these won’t solve every use case, and I’m not listing every supporting technology you might need to build real-world AI systems, but it’s a start.
-| Title| Description | Tage |
-|---|---|---|
-## 👁️ Chapter 1: - **Deep Learning Tools, Frameworks & Platforms**
 
 Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms. Each serves a different purpose—from building models to deploying them, managing experiments, and scaling in production. Below is a categorized overview of the most widely used ones.  
 ---
-
 ### 🔧 **Core Frameworks**
 | Title | Description | Tag |
 |---|---|---|
@@ -374,7 +368,6 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 | [**✅ Theano (legacy)**](https://github.com/Theano/Theano) | Pioneering DL library, now discontinued but historically important. | Legacy |
 
 ---
-
 ### 🧰 **Developer & Experimentation Tools**
 | Title | Description | Tag |
 |---|---|---|
@@ -385,7 +378,6 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 | [**✅ Streamlit**](https://streamlit.io/) | Create interactive dashboards and ML applications quickly. | Developer Tools |
 
 ---
-
 ### 📊 **Experiment Tracking & MLOps**
 | Title | Description | Tag |
 |---|---|---|
@@ -396,7 +388,6 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 | [**✅ Comet ML**](https://www.comet.com/) | Experiment tracking and visualization for ML/DL. | MLOps |
 
 ---
-
 ### 🧠 **Pre-trained Models & Model Hubs**
 | Title | Description | Tag |
 |---|---|---|
@@ -406,7 +397,6 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 | [**✅ ONNX Model Zoo**](https://github.com/onnx/models) | Open Neural Network Exchange pre-trained models. | Model Hub |
 
 ---
-
 ### 🖥️ **Deployment & Serving**
 | Title | Description | Tag |
 |---|---|---|
@@ -416,7 +406,6 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 | [**✅ NVIDIA Triton Inference Server**](https://developer.nvidia.com/nvidia-triton-inference-server) | Scalable deployment for GPU-accelerated inference. | Deployment |
 
 ---
-
 ### ☁️ **Cloud Platforms for DL**
 | Title | Description | Tag |
 |---|---|---|
@@ -427,8 +416,6 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 | [**✅ Lambda Labs**](https://lambdalabs.com/) | GPU cloud and DL workstations. | Cloud |
 
 ---
-
-
 ## 👁️ Chapter1: - **Important Research Papers**
 | Title| Description | Status|
 |---|---|---|
