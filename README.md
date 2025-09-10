@@ -342,6 +342,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅8-deeplearning.neuromatch.io**](https://deeplearning.neuromatch.io/tutorials/intro.html)| offers GPU and IPU instances with a free tier to get started|---|
 |[**✅9-Deep Learning Institute-nvidia**](https://www.nvidia.com/en-us/training/)| Free Course nvidia|---|
 |[**✅10-Building a GPT from Scratch**](https://simonthomine.github.io/CoursDeepLearning/en/07_Transformers/02_GptFromScratch.html)|This page (from the "Building a GPT from Scratch" section of Simon Thomine’s Deep Learning course) walks you through implementing a character-level transformer-based language model in PyTorch—from dataset preprocessing to self-attention, multi-head attention, and full transformer blocks—using Molière’s plays as training data|---|
+|[**✅11-DEEP LEARNING**](https://atcold.github.io/NYU-DLSP21/)| DS-GA 1008 · SPRING 2021 · NYU CENTER FOR DATA SCIENCE|---|
 
 ## 👁️ Chapter2: - **Important Notbook**
 | Title| Description | Status |
