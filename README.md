@@ -328,8 +328,6 @@ Deep Learning models come in different families, designed for specific tasks suc
 - 🔵 Introduced after 2020  
 
 ---
-
-
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
@@ -359,7 +357,8 @@ Deep Learning models come in different families, designed for specific tasks suc
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1- Linear Algebra and Optimization for Machine Learning**](https://macro.com/app/pdf/d885fcad-84b5-4ba4-a03e-6f931d746dc5)|It is Videos and github|---|
-|[**✅1- Dive into Deep Learning**](https://d2l.ai/index.html)|Interactive deep learning book with code, math, and discussions|---|
+|[**✅2- Dive into Deep Learning**](https://d2l.ai/index.html)|Interactive deep learning book with code, math, and discussions|---|
+|[**✅3- Mathematical theory of deep learning**](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Books/Mathematical%20theory%20of%20deep%20learning.pdf)|Interactive deep learning book with code, math, and discussions|---|
 
 
 ## 👁️ Chapter5: - **Github Repository**
