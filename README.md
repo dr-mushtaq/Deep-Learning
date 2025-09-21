@@ -321,7 +321,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 | **Computer Vision (Classification)** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs & Vision Transformers) |
 | **Computer Vision (Detection & Segmentation)** | R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD, RetinaNet, DETR 🔴🔵, Mask R-CNN, FCN, U-Net, DeepLab, PSPNet, SegFormer 🔴🔵, SAM 🔴🔵 | Object detection & pixel-level segmentation |
 | **Generative Models** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image, video & art synthesis |
-| **NLP (Language Models)** | Word2Vec, GloVe, ELMo, BERT 🔴, RoBERTa 🔴, XLNet 🔴, ALBERT 🔴, GPT family 🔴, T5 🔴, BART 🔴, DistilBERT 🔴, LLaMA 🔴🔵, Falcon 🔴🔵, Mistral 🔴🔵 | Text representation, transformers & LLMs |
+| **NLP (Language Models)** | Word2Vec, GloVe, ELMo, BERT 🔴, RoBERTa 🔴, Siamese Networkm🔴, XLNet 🔴, ALBERT 🔴, GPT family 🔴, T5 🔴, BART 🔴, DistilBERT 🔴, LLaMA 🔴🔵, Falcon 🔴🔵, Mistral 🔴🔵 | Text representation, transformers & LLMs |
 | **Speech & Audio** | DeepSpeech, Wav2Vec 🔴, HuBERT 🔴, Whisper 🔴🔵, Conformer 🔴🔵 | Speech recognition & audio understanding |
 | **Multimodal Models** | CLIP 🔴🔵, Flamingo 🔴🔵, Kosmos-1 🔴🔵, GPT-4 🔴🔵, Gemini 🔴🔵 | Models combining vision, text, and sometimes audio |
 | **3D & Video Models** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
