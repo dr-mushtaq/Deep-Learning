@@ -310,6 +310,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅5-Neural Networks / Deep Learning**](https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=3)|StatQuest with Josh Starmer| Pending|
 |[**✅6-Zero to Mastery Learn PyTorch for Deep Learning**](https://www.learnpytorch.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅7-Generative AI for Everyone by andrew**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
+|[**✅8-UVA Deep Learning Course**](https://uvadlc.github.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
+
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
 Deep Learning models come in different families, designed for specific tasks such as vision, language, speech, and generative AI. Below is a categorized list of important models.  
