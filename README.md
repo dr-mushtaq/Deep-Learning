@@ -205,6 +205,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | **4-Normalizing Activations in a Network**| [1](https://drive.google.com/file/d/1sOoqRpelwwLX-k4qN9cZpk4S9HJxHxA6/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[LINK](https://coursesteach.com/mod/page/view.php?id=10409&forceview=1)|Intrmediate|
 | **5-Fitting Batch Norm into a Neural Network**| [1](https://drive.google.com/file/d/1FbCDKyWTy1XTbtF_ajycpUM80XZ1YwXG/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[LINK](https://coursesteach.com/mod/page/view.php?id=10431&forceview=1)|Intrmediate|
 | [6-Why does Batch Norm work](https://www.linkedin.com/pulse/why-does-batch-normalization-work-beginner-friendly-explanation-n0bqf/?trackingId=6DqEv7lBSkiI7osHAXvmEQ%3D%3D)| [1](https://drive.google.com/file/d/1V-7FInZ5ZpttvHi74-SrqZsoT1bHmRdM/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10460&forceview=1)|Intrmediate|
+|**7-Batch Norm at Test Time**| [1](https://drive.google.com/file/d/10uhmDff8POLiQboqspSlnzRjyqHf9S_w/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10465&forceview=1)|Intrmediate|
+
 
 
 
