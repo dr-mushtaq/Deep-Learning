@@ -356,7 +356,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 ## 👁️ Chapter3: - **Important Social medica Groups**
 | Title/link| Description | Code |
 |---|---|---|
-|[**🌐1- Computer Science courses with video lectures**]()|It is Videos and github|---|
+|[**✅1-ByteQuest**](https://www.youtube.com/@Byte_Quest)|Teaching Computer Science through Visual Storytelling.|---|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
