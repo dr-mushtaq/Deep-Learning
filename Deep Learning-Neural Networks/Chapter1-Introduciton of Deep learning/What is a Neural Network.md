@@ -4,18 +4,19 @@ This blog post aims to provide a basic understanding of neural networks, a funda
 
 ## 📑 Table of Contents  
 
-- [Definition of neural networks](#Definition-of-neural networks)  
-- [Definition of Deep learning](#Definition-of-Deep learning)  
-- [What is NLP?](#What-is-NLP?)  
-- [Brief History of NLP](#Brief-History-of-NLP)
-- [*Application](#*Application)   
+- [Definition of Neural Networks](#definition-of-neural-networks)  
+- [Definition of Deep Learning](#definition-of-deep-learning)  
+- [What is NLP?](#what-is-nlp)  
+- [Brief History of NLP](#brief-history-of-nlp)  
+- [Applications](#applications)  
 
-# **Definition of neural networks** 
+
+## **Definition of neural networks** 
 **Def:** Neural networks, also called artificial neural networks (ANNs) or simulated neural networks (SNNs), are a subset of machine learning and are the backbone of deep learning algorithms. They are called “neural” because they mimic how neurons in the brain signal one another. A neural network is a type of machine-learning algorithm that is inspired by the human brain. It is a network of interconnected nodes, or artificial neurons, that learn to recognize patterns in data. Neural networks are used in a wide variety of applications, including image recognition, natural language processing, and speech recognition.
 
 **Def:** Artificial Neural Networks (ANNs) are computational models inspired by the structure and functioning of biological neural networks in the human brain.ANNs consist of interconnected nodes, or "neurons," that process and transmit information.
 
-# **Definition of Deep learning**
+## **Definition of Deep learning**
 
 Deep learning is a subfield of machine learning that has gained significant attention in recent years due to its ability to tackle complex problems with large amounts of data. The motivation behind deep learning stems from the desire to replicate the human mind’s ability to learn and make decisions.
 
@@ -156,6 +157,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
