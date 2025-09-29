@@ -15,8 +15,21 @@ This blog post aims to provide a basic understanding of neural networks, a funda
 
 **Def:** Artificial Neural Networks (ANNs) are computational models inspired by the structure and functioning of biological neural networks in the human brain.ANNs consist of interconnected nodes, or "neurons," that process and transmit information.
 
+# **Definition of Deep learning**
 
+Deep learning is a subfield of machine learning that has gained significant attention in recent years due to its ability to tackle complex problems with large amounts of data. The motivation behind deep learning stems from the desire to replicate the human mind’s ability to learn and make decisions.
 
+**Def:**  The term, Deep Learning, refers to training Neural Networks, sometimes very large Neural Networks.
+
+**Def:** Deep learning refers to the process of involving a system that thinks and learns exactly like humans using an artificial neural network
+
+**Def**: Deep learning is a subset of machine learning that uses artificial neural networks to learn from data. the “deep” in deep learning refers to the depth of layers in a neural network. 
+
+ **Def:**  A neural network of more than three layers, including the inputs and the output, can be considered a deep-learning algorithm. 
+
+**Def:** Deep learning is a subcategory of machine learning that uses artificial neural networks to process large amounts of data. It enables machines to learn complex patterns and make decisions based on this data.
+
+**Def:** Deep learning is a subset of machine learning that focuses on building and training neural networks with multiple layers. These neural networks are inspired by the structure and function of the human brain, with each layer processing and transforming data in a hierarchical manner. Deep learning algorithms learn from vast amounts of labeled data to make predictions or decisions.
 
 ### References
 
@@ -97,6 +110,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
