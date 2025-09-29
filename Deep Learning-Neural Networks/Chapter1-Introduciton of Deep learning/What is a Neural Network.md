@@ -40,6 +40,43 @@ Deep learning is particularly effective for analyzing massive, complex data, suc
 
 Deep learning and machine learning are both subfields of artificial intelligence (AI), but they differ significantly in their approach and capabilities. Here’s a breakdown of their key differences:
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/Untitled.png"></a>
+</p>
+
+
+1. **Data Dependence**:
+
+Machine Learning: Generally performs well with structured, labeled data. It requires features to be explicitly engineered by humans. While it can handle some unstructured data, its performance is often limited. 1, 2
+
+Deep Learning: Thrives on large amounts of unstructured data. It automatically learns features from raw data, eliminating the need for manual feature engineering. This allows it to handle complex patterns and relationships that traditional machine learning struggles with. 1, 2
+
+2. **Algorithm Complexity**:
+
+Machine Learning: Employs relatively simpler algorithms. Examples include linear regression, support vector machines (SVMs), decision trees, and random forests. 3
+
+Deep Learning: Uses complex, multi-layered artificial neural networks. These networks have many layers (hence “deep”), allowing them to learn intricate hierarchical representations of data. Convolutional Neural Networks (CNNs) for image processing and Recurrent Neural Networks (RNNs) for sequential data are prime examples. 3
+
+3. **Feature Extraction**:
+
+Machine Learning: Requires manual feature extraction. Data scientists must carefully select and engineer relevant features from the raw data before training the model. This is a time-consuming and often challenging process. 4
+
+Deep Learning: Automatically learns features through multiple layers of the neural network. This eliminates the need for manual feature engineering, making it more efficient for complex data. 4
+
+4. **Computational Power**:
+
+Machine Learning: Can often be trained on relatively modest computational resources.
+
+Deep Learning: Demands significantly more computational power due to the complexity of its algorithms and the large datasets it processes. This often requires specialized hardware like GPUs or TPUs. 5
+
+5. **Interpretability**:
+
+Machine Learning: Generally more interpretable. It’s often easier to understand how a simpler machine learning model arrives at its predictions.
+
+Deep Learning: Often considered a “black box.” The intricate workings of deep neural networks can be difficult to interpret, making it challenging to understand why a model makes a specific prediction. 4
+
+In short: Deep learning is a specialized subset of machine learning. Machine learning is suitable for simpler tasks with structured data, while deep learning excels at complex tasks with large amounts of unstructured data, but requires significantly more computational resources. The choice between them depends on the specific problem and available resources.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -119,6 +156,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
