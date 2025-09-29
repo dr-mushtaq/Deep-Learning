@@ -30,6 +30,15 @@ Deep learning is a subfield of machine learning that has gained significant atte
 **Def:** Deep learning is a subcategory of machine learning that uses artificial neural networks to process large amounts of data. It enables machines to learn complex patterns and make decisions based on this data.
 
 **Def:** Deep learning is a subset of machine learning that focuses on building and training neural networks with multiple layers. These neural networks are inspired by the structure and function of the human brain, with each layer processing and transforming data in a hierarchical manner. Deep learning algorithms learn from vast amounts of labeled data to make predictions or decisions.
+Application:Deeр learning underрins tоday’s raрid advanсes in areas like соmрuter visiоn, sрeeсh reсоgnitiоn, natural language рrосessing, and artifiсial intelligenсe.
+
+# **Why use Deep Learning**
+
+Deep learning is particularly effective for analyzing massive, complex data, such as images, videos or text. It excels in fields such as facial recognition, machine translation and autonomous driving.
+
+# **Difference between Deep Learning and Machine Learning**
+
+Deep learning and machine learning are both subfields of artificial intelligence (AI), but they differ significantly in their approach and capabilities. Here’s a breakdown of their key differences:
 
 ### References
 
@@ -110,6 +119,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
