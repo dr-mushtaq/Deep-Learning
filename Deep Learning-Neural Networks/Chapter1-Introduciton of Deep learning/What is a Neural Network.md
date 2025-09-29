@@ -7,7 +7,7 @@ This blog post aims to provide a basic understanding of neural networks, a funda
 - [Definition of Neural Networks](#definition-of-neural-networks)  
 - [Definition of Deep Learning](#definition-of-deep-learning)  
 - [Why use Deep Learning](#Why-use-Deep-Learning)  
-- [Difference between Deep Learning and Machine Learning](#Difference-between-Deep-Learning-and-Machine Learning)  
+- [Difference between Deep Learning and Machine Learning](#Difference-between-Deep-Learning-and-Machine-Learning)  
 - [Applications](#applications)  
 
 
@@ -157,6 +157,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
