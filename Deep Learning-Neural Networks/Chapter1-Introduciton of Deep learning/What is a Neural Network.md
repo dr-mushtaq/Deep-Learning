@@ -1,5 +1,6 @@
 
-
+# Description:
+This blog post aims to provide a basic understanding of neural networks, a fundamental concept in the field of artificial intelligence and machine learning. Starting from the basics, we will explore the structure, functioning, and applications of neural networks. Whether you are a beginner or a professional, this guide will equip you with the knowledge to grasp the core concepts and unleash the potential of neural networks.
 
 ## 📑 Table of Contents  
 
@@ -183,6 +184,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
