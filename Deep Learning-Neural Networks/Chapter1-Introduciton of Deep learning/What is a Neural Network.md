@@ -6,8 +6,8 @@ This blog post aims to provide a basic understanding of neural networks, a funda
 
 - [Definition of Neural Networks](#definition-of-neural-networks)  
 - [Definition of Deep Learning](#definition-of-deep-learning)  
-- [What is NLP?](#what-is-nlp)  
-- [Brief History of NLP](#brief-history-of-nlp)  
+- [Why use Deep Learning](#Why-use-Deep-Learning)  
+- [Difference between Deep Learning and Machine Learning](#Difference-between-Deep-Learning-and-Machine Learning)  
 - [Applications](#applications)  
 
 
@@ -33,11 +33,11 @@ Deep learning is a subfield of machine learning that has gained significant atte
 **Def:** Deep learning is a subset of machine learning that focuses on building and training neural networks with multiple layers. These neural networks are inspired by the structure and function of the human brain, with each layer processing and transforming data in a hierarchical manner. Deep learning algorithms learn from vast amounts of labeled data to make predictions or decisions.
 Application:Deeр learning underрins tоday’s raрid advanсes in areas like соmрuter visiоn, sрeeсh reсоgnitiоn, natural language рrосessing, and artifiсial intelligenсe.
 
-# **Why use Deep Learning**
+## **Why use Deep Learning**
 
 Deep learning is particularly effective for analyzing massive, complex data, such as images, videos or text. It excels in fields such as facial recognition, machine translation and autonomous driving.
 
-# **Difference between Deep Learning and Machine Learning**
+## **Difference between Deep Learning and Machine Learning**
 
 Deep learning and machine learning are both subfields of artificial intelligence (AI), but they differ significantly in their approach and capabilities. Here’s a breakdown of their key differences:
 
@@ -157,6 +157,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
