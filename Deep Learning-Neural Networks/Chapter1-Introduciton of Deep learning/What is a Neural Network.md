@@ -4,8 +4,8 @@ This blog post aims to provide a basic understanding of neural networks, a funda
 
 ## 📑 Table of Contents  
 
-- [Introduction](#Introduction)  
-- [Why NLP is so important?](#Why-NLP-is-so-important?)  
+- [Definition of neural networks](#Definition-of-neural networks)  
+- [Definition of Deep learning](#Definition-of-Deep learning)  
 - [What is NLP?](#What-is-NLP?)  
 - [Brief History of NLP](#Brief-History-of-NLP)
 - [*Application](#*Application)   
@@ -110,6 +110,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
