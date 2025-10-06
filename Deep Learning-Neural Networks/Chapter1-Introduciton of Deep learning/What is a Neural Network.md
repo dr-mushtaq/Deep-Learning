@@ -163,6 +163,14 @@ Inside neurons, Dendrites act as neuro receptors nothing but the input layer. Ax
 
 A biological neuron operates through a series of simple electrochemical processes.It receives signals from other neurons through its dendrites. When these incoming signals add up to a certain level (a predetermined threshold), the neuron switches on and sends an electrochemical signal along its axon. This, in turn, affects the neurons connected to its axon terminals. The key thing to note here is that a neuron’s response is like a binary switch: it either fires (activates) or stays quiet, without any in-between states [9].
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/2636c301-fe49-4157-88f0-f4ee5e97a834_630x372.jpg"></a>
+</p>
+
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/178e818d-a72b-409c-a34e-55d0c4fcccd5_327x172.png"></a>
+</p>
+
 Similarly, artificial neurons receive the information from the input layer and transmit the information to other neurons through the output layer. Here, the neurons are connected and certain weights are assigned to that particular connection. These weights represent the strength of the connection and they play an important role in the activation of the neuron. The bias is like an intercept in the linear equation.
 
 Here, the inputs (x1 to xn) get multiplied with corresponding weights (w1 to wn) and then they get summated along with the bias. The result would be taken as input for the activation function this is where the decision happens and the output of the activation function is transferred to other neurons. There are different types of activation functions some are linear, step, sigmoid, RelU, etc.
@@ -201,3 +209,4 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
  
+
