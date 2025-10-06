@@ -117,7 +117,13 @@ Here are some of the major milestones in the history of deep learning:
 <img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/39660106-7d4b-4ebf-b8fa-756ac0385194_630x638.jpg"></a>
 </p>
 
+## **How does the Biological and Artificial Neuron work?**
 
+So, when you think about mimicking the brain while one of the human brain does tell me same things, right? The brain can learn to see process images than to hear, learn to process our sense of touch. We can, you know, learn to do math, learn to do calculus, and the brain does so many different and amazing things. It seems like if you want to mimic the brain it seems like you have to write lots of different pieces of software to mimic all of these different fascinating, amazing things that the brain tell us, but does is this fascinating hypothesis that the way the brain does all of these different things is not worth like a thousand different programs, but instead, the way the brain does it is worth just a single learning algorithm.
+
+The brain is the most complex part of the human body and researchers are still uncovering its working. To better understand the Brain let’s consider a simple examples.
+
+**Example 1**
 
 ### References
 
@@ -198,6 +204,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
