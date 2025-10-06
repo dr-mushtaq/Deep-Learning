@@ -113,6 +113,10 @@ Here are some of the major milestones in the history of deep learning:
 
 - 2016: AlphaGo defeats a professional Go player using deep learning.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/39660106-7d4b-4ebf-b8fa-756ac0385194_630x638.jpg"></a>
+</p>
+
 
 
 ### References
@@ -194,6 +198,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
