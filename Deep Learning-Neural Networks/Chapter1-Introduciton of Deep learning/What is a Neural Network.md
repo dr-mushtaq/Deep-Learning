@@ -147,6 +147,16 @@ Here’s another example. That red piece of brain tissue is your somatosensory c
 
 There’s this sense that if the same piece of physical brain tissue can process sight or sound or touch then maybe there is one learning algorithm that can process sight or sound or touch. And instead of needing to implement a thousand different programs or a thousand different algorithms to do, you know, the thousand wonderful things that the brain does, maybe what we need to do is figure out some approximation or to whatever the brain’s learning algorithm is and implement that and that the brain learned by itself how to process these different types of data. To a surprisingly large extent, it seems as if we can plug in almost any sensor to almost any part of the brain and so, within the reason, the brain will learn to deal with it.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/d2dce6ed-456f-4202-b3a1-bbadff1275e0_630x309.jpg"></a>
+</p>
+
+So, it’s pretty amazing to what extent is as if you can plug in almost any sensor to the brain and the brain’s learning algorithm will just figure out how to learn from that data and deal with that data. And there’s a sense that if we can figure out what the brain’s learning algorithm is, and, you know, implement it or implement some approximation to that algorithm on a computer, maybe that would be our best shot at, you know, making real progress towards the AI, the artificial intelligence dream of someday building truly intelligent machines.
+
+**Explanation**
+
+Inside neurons, Dendrites act as neuro receptors nothing but the input layer. Axons act as neurotransmitters nothing but the output layer. The nucleus is where the action potential is compared to the threshold. If the action potential is greater than the threshold, the electrical impulse will transmit to another neuron. If the action potential is lesser than the threshold, the electrical impulse won’t transmit to another neuron.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -226,6 +236,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
