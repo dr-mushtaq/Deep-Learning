@@ -157,6 +157,14 @@ So, it’s pretty amazing to what extent is as if you can plug in almost any sen
 
 Inside neurons, Dendrites act as neuro receptors nothing but the input layer. Axons act as neurotransmitters nothing but the output layer. The nucleus is where the action potential is compared to the threshold. If the action potential is greater than the threshold, the electrical impulse will transmit to another neuron. If the action potential is lesser than the threshold, the electrical impulse won’t transmit to another neuron.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/c2b4d6e4-009e-42bd-a2c9-a11e53ee2d25_630x315.jpg"></a>
+</p>
+
+A biological neuron operates through a series of simple electrochemical processes.It receives signals from other neurons through its dendrites. When these incoming signals add up to a certain level (a predetermined threshold), the neuron switches on and sends an electrochemical signal along its axon. This, in turn, affects the neurons connected to its axon terminals. The key thing to note here is that a neuron’s response is like a binary switch: it either fires (activates) or stays quiet, without any in-between states [9].
+
+
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -236,6 +244,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
