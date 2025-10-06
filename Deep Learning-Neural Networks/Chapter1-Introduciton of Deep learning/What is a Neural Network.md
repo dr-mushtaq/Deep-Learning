@@ -83,7 +83,7 @@ The first ANN was proposed in 1944, but it has become very popular in recent yea
 
 - In the 1950s, **Frank Rosenblatt developed the perceptron**, a simple two-layer neural network that could be trained to recognize patterns. However, the perceptron had limitations, and it was not until the 1980s that neural networks began to be used more widely.
 
-- In the 1980s, **Geoffrey Hinton** and others developed a new type of neural network called the vbackpropagation algorithm**. Backpropagation allowed neural networks to learn more complex patterns, and it led to a renewed interest in neural networks.
+- In the 1980s, **Geoffrey Hinton** and others developed a new type of neural network called the **backpropagation algorithm**. Backpropagation allowed neural networks to learn more complex patterns, and it led to a renewed interest in neural networks.
 
 In the 1990s, deep learning research continued, but it was still a relatively niche field. However, in the early 2000s, there were a number of breakthroughs that led to a resurgence of interest in deep learning.
 
@@ -194,6 +194,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
