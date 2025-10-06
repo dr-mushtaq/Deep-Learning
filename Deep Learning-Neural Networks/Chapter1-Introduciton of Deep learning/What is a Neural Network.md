@@ -85,33 +85,33 @@ The first ANN was proposed in 1944, but it has become very popular in recent yea
 
 - In the 1980s, **Geoffrey Hinton** and others developed a new type of neural network called the **backpropagation algorithm**. Backpropagation allowed neural networks to learn more complex patterns, and it led to a renewed interest in neural networks.
 
-In the 1990s, deep learning research continued, but it was still a relatively niche field. However, in the early 2000s, there were a number of breakthroughs that led to a resurgence of interest in deep learning.
+- In the 1990s, deep learning research continued, but it was still a relatively niche field. However, in the early 2000s, there were a number of breakthroughs that led to a resurgence of interest in deep learning.
 
-One of the most important breakthroughs was the development of the convolutional neural network (CNN). CNNs are a type of neural network that is specifically designed for image processing. They have been used to achieve state-of-the-art results in a variety of image recognition tasks, such as face recognition and object detection.
+- One of the most important breakthroughs was the development of the  **convolutional neural network (CNN)**. CNNs are a type of neural network that is specifically designed for image processing. They have been used to achieve state-of-the-art results in a variety of image recognition tasks, such as face recognition and object detection.
 
-Another important breakthrough was the development of the recurrent neural network (RNN). RNNs are a type of neural network that is specifically designed for processing sequential data. They have been used to achieve state-of-the-art results in a variety of natural language processing tasks, such as machine translation and speech recognition.
+- Another important breakthrough was the development of the  **recurrent neural network (RNN) **. RNNs are a type of neural network that is specifically designed for processing sequential data. They have been used to achieve state-of-the-art results in a variety of natural language processing tasks, such as machine translation and speech recognition.
 
 In the past decade, deep learning has made significant progress in a wide variety of tasks, including image recognition, natural language processing, speech recognition, and machine translation. It is now one of the most active and promising areas of research in AI.
 
 Here are some of the major milestones in the history of deep learning:
 
-1943: Warren McCulloch and Walter Pitts create a mathematical model of neurons in the brain.
+- 1943: Warren McCulloch and Walter Pitts create a mathematical model of neurons in the brain.
 
-1958: Frank Rosenblatt develops the perceptron, a simple two-layer neural network that can be trained to recognize patterns.
+- 1958: Frank Rosenblatt develops the perceptron, a simple two-layer neural network that can be trained to recognize patterns.
 
-1986: Geoffrey Hinton and others develop the backpropagation algorithm, which allows neural networks to learn more complex patterns.
+- 1986: Geoffrey Hinton and others develop the backpropagation algorithm, which allows neural networks to learn more complex patterns.
 
-1998: Yann LeCun et al. develop the LeNet-5 CNN, which achieves state-of-the-art results in handwritten digit recognition.
+- 1998: Yann LeCun et al. develop the LeNet-5 CNN, which achieves state-of-the-art results in handwritten digit recognition.
 
-2006: Geoffrey Hinton et al. develop the Deep Belief Network, which is a type of neural network that can be pre-trained on a large amount of unlabeled data.
+- 2006: Geoffrey Hinton et al. develop the Deep Belief Network, which is a type of neural network that can be pre-trained on a large amount of unlabeled data.
 
-2012: Alex Krizhevsky et al. develop the AlexNet CNN, which achieves state-of-the-art results in image classification.
+- 2012: Alex Krizhevsky et al. develop the AlexNet CNN, which achieves state-of-the-art results in image classification.
 
-2014: Ilya Sutskever et al. develop the Transformer, a new type of neural network that is specifically designed for natural language processing tasks.
+- 2014: Ilya Sutskever et al. develop the Transformer, a new type of neural network that is specifically designed for natural language processing tasks.
 
-2015: Google Translate uses deep learning to achieve human-level performance in machine translation.
+- 2015: Google Translate uses deep learning to achieve human-level performance in machine translation.
 
-2016: AlphaGo defeats a professional Go player using deep learning.
+- 2016: AlphaGo defeats a professional Go player using deep learning.
 
 
 
@@ -194,6 +194,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
