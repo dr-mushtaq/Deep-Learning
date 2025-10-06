@@ -133,6 +133,10 @@ In biological term, brain cells have perceptrons or receivers known as dendrites
 
 Let me explain a scenario when you touch a hot object with your hand, you would feel the pain and remove the hand immediately. This action and reaction are done within a fraction of a second. Have you ever got a feeling that how this is happening? Well, they are trillions of neurons connected in the body when you touch a hot object the electrical impulse will travel from the neurons in your hand to the neurons in your brain. Then the decision is taken and immediately electrical impulse travels back to the neurons in hand instructing to remove it.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/ecfb8f31-e792-4e78-8b5c-bd4c0fc0ee4f_630x356.jpg"></a>
+</p>
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -212,6 +216,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
