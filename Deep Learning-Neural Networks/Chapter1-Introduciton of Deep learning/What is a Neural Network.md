@@ -125,6 +125,14 @@ The brain is the most complex part of the human body and researchers are still u
 
 **Example 1**
 
+Imagine a ball coming towards us. What would be our first reaction mostly likely we will our hands to catch the ball. Behind the scene, this can be translated into input and output. our eyes sense the incoming ball and sent input signals to our brains. The brain receives these signals, analyzes them, and generates the output reaction of moving our hand to catch the ball.
+
+In biological term, brain cells have perceptrons or receivers known as dendrites that receive electrical singal as input data from out sensory organs such as the eyes, nose,skin etc. The brain cells analyze these signals and respond by releasing reachtion singnals through axon terminals as output data.
+
+**Example 2**
+
+Let me explain a scenario when you touch a hot object with your hand, you would feel the pain and remove the hand immediately. This action and reaction are done within a fraction of a second. Have you ever got a feeling that how this is happening? Well, they are trillions of neurons connected in the body when you touch a hot object the electrical impulse will travel from the neurons in your hand to the neurons in your brain. Then the decision is taken and immediately electrical impulse travels back to the neurons in hand instructing to remove it.
+
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
@@ -204,6 +212,7 @@ Choose the best answer for each question.
 - b) Machine Translation.  
 - c) Document Clustering.  
 - d) Keyword Extraction.  
+
 
 
 
