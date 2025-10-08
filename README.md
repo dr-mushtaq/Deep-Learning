@@ -315,6 +315,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅7-Generative AI for Everyone by andrew**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅8-UVA Deep Learning Course**](https://uvadlc.github.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅8-UVA Deep Learning Course**](https://www.youtube.com/watch?v=0CFl1ZRc5TI&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=2)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
+|[**✅8-Introduction to Deep Learningby Sebastian Raschka**](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
 
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
