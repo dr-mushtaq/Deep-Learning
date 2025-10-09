@@ -39,7 +39,7 @@ Welcome to the A-Z Guide to Deep Learning repository! This comprehensive supplem
 
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
-Every contribution — big or small — helps sustain the development of **open-source Python learning materials**, **AI-driven educational resources**, and **data science tools**.  
+Every contribution — big or small — helps sustain the development of ** Deep learning materials**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
 
 ---
