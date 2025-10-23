@@ -418,6 +418,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅5-PyTorch Fundamentals**](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)|Github repisotry contain couress| Pending|
 |[**✅6-Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems**](https://github.com/NirDiamant/rag_techniques)|Github repisotry contain couress| Pending|
 |[**✅7-Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)|Github repisotry contain couress| Pending|
+|[**✅8-labml.ai Deep Learning Paper Implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|Github repisotry contain couress| Pending|
 
 
 
