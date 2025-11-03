@@ -175,11 +175,16 @@ Similarly, artificial neurons receive the information from the input layer and t
 
 Here, the inputs (x1 to xn) get multiplied with corresponding weights (w1 to wn) and then they get summated along with the bias. The result would be taken as input for the activation function this is where the decision happens and the output of the activation function is transferred to other neurons. There are different types of activation functions some are linear, step, sigmoid, RelU, etc.
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/6e35ff43-06b2-48bf-87e2-7266f430924c_630x272.jpg"></a>
+</p>
 
 In our childhood we may have struggled with catching balls . However, through practice our brain eventually learns how to do so. During this process the brain effectively learns the mapping function from inputs to outputs. In other word the process of learning a mapping function through repeated experience is referred to as intelligence in living things. Now the critical question is What if some nonliving things start doing the same?
 can we develop the same capability for our computer . that where the concept of Machine learning come into play
 
-
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/v.jpg "></a>
+</p>
 What does this have to do with the brain( Dr. Andrew)
 
 I think because it’s been difficult to convey intuitions about what these equations are doing, really creating the sense on a very complex function, the analogy that it’s like the brain has become an oversimplified explanation for what this is doing. But the simplicity of this makes it seductive for people to just say it publicly as well as for media to report it, and it is certainly called the popular imagination. There is a very loose analogy between, let’s say, a logistic regression unit with a sigmoid activation function. Here’s a cartoon of a single neuron in the brain. In this picture of a biological neuron, this neuron, which is a cell in your brain, receives electric signals from other neurons, X1, X2, X3, or maybe from other neurons, A1, A2, A3, does a simple thresholding computation, and then if this neuron fires, it sends a pulse of electricity down the axon, down this long wire, perhaps to other neurons. There is a very simplistic analogy between a single neuron in a neural network, and a biological neuron like that shown on the right. But I think that today even neuroscientists have almost no idea what even a single neuron is doing. A single neuron appears to be much more complex than we are able to characterize with neuroscience, and while some of what it’s doing is a little bit like logistic regression, there’s still a lot about what even a single neuron does that no one human today understands. For example, exactly how neurons in the human brain learns is still a very mysterious process, and it’s completely unclear today whether the human brain uses an algorithm, does anything like back propagation or gradient descent or if there’s some fundamentally different learning principle that the human brain uses. When I think of deep-learning, I think of it as being very good and learning very flexible functions, very complex functions, to learn X to Y mappings, to learn input-output mappings in supervised learning. Whereas this is like the brain analogy, maybe that was useful once, I think the field has moved to the point where that analogy is breaking down, and I tend not to use that analogy much anymore. So that’s it for neural networks and the brain. I do think that maybe the field of computer vision has taken a bit more inspiration from the human brain than other disciplines that also apply deep learning, but I personally use the analogy to the human brain less than I used to. That’s it for this video. You now know how to implement forward prop and back prop and gradient descent even for deep neural networks. Best of luck with the programming exercise, and I look forward to sharing more of these ideas with you in the second course.
@@ -209,4 +214,5 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
  
+
 
