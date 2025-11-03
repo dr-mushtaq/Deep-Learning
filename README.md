@@ -245,6 +245,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**7-Batch Norm at Test Time**| [1](https://drive.google.com/file/d/10uhmDff8POLiQboqspSlnzRjyqHf9S_w/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10465&forceview=1)|Intrmediate|
 |**8-Softmax Regression**| [1](https://drive.google.com/file/d/1wev2JgDG8WcG2IlzBZr7BPAuAEtwE48H/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10473&forceview=1)|Intrmediate|
 |**9-Softmax Training**| [1](https://drive.google.com/drive/u/0/folders/1uJEYM_WsV1WyQG67J8ueAwEt2FoSXpob)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10478&forceview=1)|Intrmediate|
+|**10-Deep Learning Frameworks**| [1](https://drive.google.com/file/d/1njP3S56-3QxVNyMKl9DqQcTgRzEq8zSu/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10486&forceview=1)|Intrmediate|
 
 
 
