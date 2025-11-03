@@ -198,6 +198,7 @@ I think because it’s been difficult to convey intuitions about what these equa
 ### References
 
 1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
+2-[A Short Journey To Deep Learning](https://pub.towardsai.net/a-short-journey-to-deep-learning-396ddf02f57f)
 
 
 
@@ -218,6 +219,7 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
  
+
 
 
 
