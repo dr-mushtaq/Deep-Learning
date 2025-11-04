@@ -364,7 +364,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 | Models | Tages | Extra Resources |
 |---|---|---|
 | **Artificala Neural Netowrk (ANN)** | General predictive modeling, tabular data, regression/classification tasks | --- |
-| **Convolutional Neural networks(CNN)** |Computer Vision | Object detection & pixel-level segmentation |
+| **Convolutional Neural networks(CNN)** |Image classification, object detection, segmentation, computer vision | Object detection & pixel-level segmentation |
 | **Recurrent Neural Network(RNN)** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image, video & art synthesis |
 | **Long short Term Memory(LSTM)** | Word2Vec, GloVe, ELMo, BERT 🔴, RoBERTa 🔴, Siamese Networkm🔴, XLNet 🔴, ALBERT 🔴, GPT family 🔴, T5 🔴, BART 🔴, DistilBERT 🔴, LLaMA 🔴🔵, Falcon 🔴🔵, Mistral 🔴🔵 | Text representation, transformers & LLMs |
 | **Gated Recurrent Unit(GRU)** | DeepSpeech, Wav2Vec 🔴, HuBERT 🔴, Whisper 🔴🔵, Conformer 🔴🔵 | Speech recognition & audio understanding |
