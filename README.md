@@ -363,7 +363,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 Deep Learning models come in different families, designed for specific tasks such as vision, language, speech, and generative AI. Below is a categorized list of important models.  
 | Models | Tages | Extra Resources |
 |---|---|---|
-| **Artificala Neural Netowrk (ANN)** | AlexNet, VGG, ResNet, DenseNet, EfficientNet, ViT 🔴🔵, Swin Transformer 🔴🔵, ConvNeXt 🔵 | Image classification (CNNs & Vision Transformers) |
+| **Artificala Neural Netowrk (ANN)** | General predictive modeling, tabular data, regression/classification tasks | --- |
 | **Convolutional Neural networks(CNN)** |Computer Vision | Object detection & pixel-level segmentation |
 | **Recurrent Neural Network(RNN)** | Autoencoders, VAE, GAN, DCGAN, CycleGAN, StyleGAN, BigGAN, Diffusion Models (DDPM 🔵), DALL·E 🔴🔵, Stable Diffusion 🔵 | Image, video & art synthesis |
 | **Long short Term Memory(LSTM)** | Word2Vec, GloVe, ELMo, BERT 🔴, RoBERTa 🔴, Siamese Networkm🔴, XLNet 🔴, ALBERT 🔴, GPT family 🔴, T5 🔴, BART 🔴, DistilBERT 🔴, LLaMA 🔴🔵, Falcon 🔴🔵, Mistral 🔴🔵 | Text representation, transformers & LLMs |
