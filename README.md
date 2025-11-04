@@ -347,15 +347,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|
 |[**✅1-Deep Learning Specialization by Andrew**](https://www.coursera.org/specializations/deep-learning?msockid=2542a2661bba61a702b4b7c51a616059)|by andrew,Cousera,Good| InProgress|
 |[**✅2-Deep Learning(Yann LeCun & Alfredo Canziani)**](https://atcold.github.io/pytorch-Deep-Learning/)|It is free course and it contain notes and video| Pending|
-|[**✅2-eural Networks: Zero to Hero**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Neural%20Networks:%20Zero%20to%20Hero)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
+|[**✅2-Neural Networks: Zero to Hero**](https://www.learngood.com/#/youtube-series/Andrej%20Karpathy%20-%20Neural%20Networks:%20Zero%20to%20Hero)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅3-Practical Deep Learning**](https://course.fast.ai/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅4-Deep Learning- Texas Austin**](https://ut.philkr.net/deeplearning/)|It is free course and it contain notes and video,Andrej Karpathy| Pending|
 |[**✅5-Neural Networks / Deep Learning**](https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=3)|StatQuest with Josh Starmer| Pending|
 |[**✅6-Zero to Mastery Learn PyTorch for Deep Learning**](https://www.learnpytorch.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅7-Generative AI for Everyone by andrew**](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅8-UVA Deep Learning Course**](https://uvadlc.github.io/)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
-|[**✅8-UVA Deep Learning Course**](https://www.youtube.com/watch?v=0CFl1ZRc5TI&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=2)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
-|[**✅8-Introduction to Deep Learningby Sebastian Raschka**](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
+|[**✅9-UVA Deep Learning Course**](https://www.youtube.com/watch?v=0CFl1ZRc5TI&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=2)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
+|[**✅10-Introduction to Deep Learningby Sebastian Raschka**](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
+|[**✅11-Neural Networks / Deep Learning By StatQuest with Josh Starmer**](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
 
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
