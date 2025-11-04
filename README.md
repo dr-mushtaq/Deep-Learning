@@ -366,14 +366,14 @@ Deep Learning models come in different families, designed for specific tasks suc
 | **Artificala Neural Netowrk (ANN)** | General predictive modeling, tabular data, regression/classification tasks | --- |
 | **Convolutional Neural networks(CNN)** |Image classification, object detection, segmentation, computer vision | Object detection & pixel-level segmentation |
 | **Recurrent Neural Network(RNN)** | Sequential modeling, time series prediction | Image, video & art synthesis |
-| **Long short Term Memory(LSTM)** | Word2Vec, GloVe, ELMo, BERT 🔴, RoBERTa 🔴, Siamese Networkm🔴, XLNet 🔴, ALBERT 🔴, GPT family 🔴, T5 🔴, BART 🔴, DistilBERT 🔴, LLaMA 🔴🔵, Falcon 🔴🔵, Mistral 🔴🔵 | Text representation, transformers & LLMs |
-| **Gated Recurrent Unit(GRU)** | DeepSpeech, Wav2Vec 🔴, HuBERT 🔴, Whisper 🔴🔵, Conformer 🔴🔵 | Speech recognition & audio understanding |
-| **Transformer Models** | BERT GPT | 3D recognition & video understanding |
-| **Auto encoder** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
-| **Deep Belif Network (DBN)** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
-| **Graph Neural Networks(GNNS)** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
-| **Neural ODEs** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
-| **Pysics Informed Neural network** | 3D CNNs, C3D, I3D, PointNet, NeRF 🔵, Video Swin Transformer 🔴🔵 | 3D recognition & video understanding |
+| **Long short Term Memory(LSTM)** | Natural language processing (text generation, understanding, translation) | Text representation, transformers & LLMs |
+| **Gated Recurrent Unit(GRU)** | Speech recognition, audio analysis, speaker identification | Speech recognition & audio understanding |
+| **Transformer Models** | BERT GPT | Text, vision, and multimodal understanding |
+| **Auto encoder** | Dimensionality reduction, anomaly detection, data reconstruction | 3D recognition & video understanding |
+| **Deep Belif Network (DBN)** | Unsupervised feature learning, pretraining | 3D recognition & video understanding |
+| **Graph Neural Networks(GNNS)** | Graph-based data (social networks, molecules, knowledge graphs) | 3D recognition & video understanding |
+| **Neural ODEs** | Modeling continuous-time systems, physics-based simulations | 3D recognition & video understanding |
+| **Pysics Informed Neural network** | Solving PDEs, scientific computing, engineering simulations | 3D recognition & video understanding |
 ---
 
 ---
