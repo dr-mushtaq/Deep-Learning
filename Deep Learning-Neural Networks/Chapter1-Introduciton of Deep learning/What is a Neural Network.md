@@ -185,6 +185,7 @@ can we develop the same capability for our computer . that where the concept of 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/v.jpg "></a>
 </p>
+
 # What does this have to do with the brain( Dr. Andrew)
 
 <p align="center">
@@ -195,11 +196,29 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
 
-### References
+# References
 
-1-[Natural Language Processing (NLP) with Python](https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0)
+[1-AI vs. Machine Learning vs. Deep Learning vs. Neural Networks: What’s the difference?](https://www.ibm.com/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks/)
 
-2-[A Short Journey To Deep Learning](https://pub.towardsai.net/a-short-journey-to-deep-learning-396ddf02f57f)
+[2- Google Bar]()
+
+[3-Neural network and Deep leaning(Andrew)](https://www.coursera.org/learn/neural-networks-deep-learning)
+
+[4-A Short Journey To Deep Learning](https://pub.towardsai.net/a-short-journey-to-deep-learning-396ddf02f57f)
+
+[5-What is a Neural Network (Video)?](https://drive.google.com/file/d/11qLSQ0yE9vzUs77HvfOrQSKMBh8qfdHS/view)
+
+[6-How Neural Networks work (Video)](https://drive.google.com/file/d/1w4msKjdoNrUHNE7sW4nOfMbDQuo5TMF0/view)
+
+[7- Introduction of Machine Learning](https://www.enjoyalgorithms.com/blog/introduction-to-machine-learning)
+
+[8-Artificial Neural Networks in Machine Learning]()
+
+[9-A Brief History of the Neural Networks]()
+
+[10-Essential Deep Learning Algorithms for Artificial Neural Networks](https://medium.com/mlearning-ai/artificial-neural-networks-in-machine-learning-fa653d74b1a1)
+
+[11-The-Logic-Band-Methodology](https://mr-redbeard.github.io/The-Logic-Band-Methodology/)
 
 
 
@@ -220,6 +239,7 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
  
+
 
 
 
