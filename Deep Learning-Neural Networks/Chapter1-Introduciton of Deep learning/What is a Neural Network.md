@@ -8,7 +8,8 @@ This blog post aims to provide a basic understanding of neural networks, a funda
 - [Definition of Deep Learning](#definition-of-deep-learning)  
 - [Why use Deep Learning](#Why-use-Deep-Learning)  
 - [Difference between Deep Learning and Machine Learning](#Difference-between-Deep-Learning-and-Machine-Learning)  
-- [Applications](#applications)  
+- [History of Deep learnin](#History-of-Deep-learnin)
+- [How does the Biological and Artificial Neuron work?](#How-does-the-Biological-and-Artificial-Neuron-work?) 
 
 
 ## **Definition of neural networks** 
@@ -222,23 +223,10 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
 
-<p align="center">
-  <a href="#previous-section" style="text-decoration:none;">
-    <button style="padding:20px 40px; font-size:24px; font-weight:bold; border-radius:12px; background-color:#007BFF; color:white; border:none; cursor:pointer;">
-      ⬅️ Previous
-    </button>
-  </a>
-
-  <a href="#next-section" style="text-decoration:none;">
-    <button style="padding:20px 40px; font-size:24px; font-weight:bold; border-radius:12px; background-color:#28A745; color:white; border:none; cursor:pointer;">
-      Next ➡️
-    </button>
-  </a>
-</p>
-
 
 
  
+
 
 
 
