@@ -185,7 +185,7 @@ can we develop the same capability for our computer . that where the concept of 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/v.jpg "></a>
 </p>
-What does this have to do with the brain( Dr. Andrew)
+# What does this have to do with the brain( Dr. Andrew)
 
 <p align="center">
 <img src=" https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/fdfd.jpg "></a>
@@ -220,6 +220,7 @@ I think because it’s been difficult to convey intuitions about what these equa
 
 
  
+
 
 
 
