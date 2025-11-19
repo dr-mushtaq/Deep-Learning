@@ -252,7 +252,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 
-
 </details>
 
 <details> 
@@ -403,6 +402,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1-ByteQuest**](https://www.youtube.com/@Byte_Quest)|Teaching Computer Science through Visual Storytelling.|---|
+| [**✅ 4-DataMListic**](https://www.youtube.com/@datamlistic) | Comprehensive roadmap for AI courses           | Completed  |
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
