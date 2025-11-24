@@ -15,7 +15,7 @@ There’s been a lot of hype about neural networks. And perhaps some of that hyp
 In supervised learning, you have some input x, and you want to learn a function mapping to some output y. So for example, just now we saw the housing price prediction application where you input some features of a home and try to output or estimate the price y. Here are some other examples that neural networks have been applied to very effectively.
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/30a6865d-3c65-43bd-8e4f-e83470dafe95_630x284.jpg"></a>
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/123.webp"></a>
 </p>
 
 Possibly the single most lucrative application of deep learning today is online advertising, maybe not the most inspiring, but certainly very lucrative, in which, by inputting information about an ad to the website it’s thinking of showing you, and some information about the user, neural networks have gotten very good at predicting whether or not you click on an ad. And by showing you and showing users the ads that you are most likely to click on, this has been an incredibly lucrative application of neural networks at multiple companies. Because the ability to show you ads that you’re more likely to click on has a direct impact on the bottom line of some of the very large online advertising companies.
@@ -56,6 +56,9 @@ So, just to be a bit more concrete about what are the standard CNN and RNN archi
 
 You might also have heard about applications of machine learning to both Structured Data and Unstructured Data. Here’s what the terms mean. Structured Data means basically databases of data. So, for example, in housing price prediction, you might have a database or the column that tells you the size and the number of bedrooms. So, this is structured data, or in predicting whether or not a user will click on an ad, you might have information about the user, such as the age, some information about the ad, and then labels why that you’re trying to predict. So that’s structured data, meaning that each of the features, such as size of the house, the number of bedrooms, or the age of a user, has a very well defined meaning.
 
+<p align="center">
+<img src="[https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/123.webp](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/4444.jpg)"></a>
+</p>
 
 # unstructured data
 
@@ -66,6 +69,7 @@ Please Follow and Subscribe
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
