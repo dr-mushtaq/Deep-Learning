@@ -32,7 +32,7 @@ And in autonomous driving, you might input an image, say a picture of what’s i
    
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/c483df44-3523-425b-815d-c3a02bbb8db5_700x286.png"></a>
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/30a6865d-3c65-43bd-8e4f-e83470dafe95_630x284.jpg"></a>
 </p>
 
 So a lot of the value creation through neural networks has been through cleverly selecting what should be x and what should be y for your particular problem, and then fitting this supervised learning component into often a bigger system such as an autonomous vehicle. It turns out that slightly different types of neural networks are useful for different applications.
@@ -66,6 +66,7 @@ Please Follow and Subscribe
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
