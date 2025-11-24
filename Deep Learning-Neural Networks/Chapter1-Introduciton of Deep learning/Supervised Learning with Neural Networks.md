@@ -57,7 +57,7 @@ So, just to be a bit more concrete about what are the standard CNN and RNN archi
 You might also have heard about applications of machine learning to both Structured Data and Unstructured Data. Here’s what the terms mean. Structured Data means basically databases of data. So, for example, in housing price prediction, you might have a database or the column that tells you the size and the number of bedrooms. So, this is structured data, or in predicting whether or not a user will click on an ad, you might have information about the user, such as the age, some information about the ad, and then labels why that you’re trying to predict. So that’s structured data, meaning that each of the features, such as size of the house, the number of bedrooms, or the age of a user, has a very well defined meaning.
 
 <p align="center">
-<img src="[https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/123.webp](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/4444.jpg)"></a>
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/4444.jpg"></a>
 </p>
 
 # unstructured data
@@ -69,6 +69,7 @@ Please Follow and Subscribe
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
