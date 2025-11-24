@@ -24,155 +24,45 @@ Machine translation has also made huge strides thanks to deep learning where now
 
 And in autonomous driving, you might input an image, say a picture of what’s in front of your car as well as some information from a radar, and based on that, maybe a neural network can be trained to tell you the position of the other cars on the road. So this becomes a key component in autonomous driving systems.
 
-## **1. Virtual environments in Anaconda**
+# **Types of neural networks**
    
-What is it: A virtual environment is like a “workspace” where you can install a set of packages with specific versions. These environments are isolated from each other and from the base environment of your system.
-
-So, why use virtual environments at all [3]?
-
-- Primary reason for using virtual environments lies in managing dependencies and avoiding conflicts between packages.
-- Different packages can have conflicting requirements for their dependencies, meaning installing one may cause the other to stop working.
-- If you put them in separate environments instead, you can switch between the environments as needed, and both will continue to work.
-- This enhances project stability and reproducibility, as you can rest assured that each project’s dependencies are contained and managed separately
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/c483df44-3523-425b-815d-c3a02bbb8db5_700x286.png"></a>
 </p>
 
-Thus by using environments, you won’t breaking existing projects when you install, update, or remove packages, since each project can have its own environment.
-You can also delete environments once you’re done with them, and if you run into problems with an environment, it’s easy to start a new one!
-In Short, virtual environments serve as invaluable tools for managing dependencies, resolving conflicts, and maintaining project isolation in Python development.
-By leveraging virtual environments, you can ensure project stability, streamline package management, and enhance productivity in your coding endeavors.
-
-# **Installing Anaconda**
-
-1- Visit the official Anaconda Website: www.anaconda.com
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/b4f1862a-eb6b-4387-8bdc-72c81c248aed_700x249.png"></a>
-</p>
-
--  Provide your email to download distribution
-- It will send a link to your Email.
--  Click on Download Now.
--  It will redirect you the Anaconda Download Webpage.
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/21c15efc-5f93-4cf1-997b-f3fdc58cd6fc_700x309.png"></a>
-</p>
-
-- Click on Download to get download started
-- It will take some time to download as the Anaconda File Size is pretty large.
--  After Downloading, Run the Installer
-
-  
-<p align="center">
-<img src=" https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/image.jpg"></a>
-</p>
-
-> Keep all settings to Default.
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/image%20(1).jpg"></a>
-</p>
+So a lot of the value creation through neural networks has been through cleverly selecting what should be x and what should be y for your particular problem, and then fitting this supervised learning component into often a bigger system such as an autonomous vehicle. It turns out that slightly different types of neural networks are useful for different applications.
 
 
-# Installing Visual Studio Code:
+For example, in the real estate application. we use a universally standard neural network architecture, right? Maybe for real estate and online advertising might be a relatively standard neural network, like the one that we saw.
 
-> Navigate to the official Visual Studio Code website.
+For image applications, we’ll often use convolutional neural networks, often abbreviated CNN. And for sequence data.
 
-[Download](https://code.visualstudio.com/?source=post_page-----b353db76165d---------------------------------------)
+So for example, audio has a temporal component, right? Audio is played out over time, so audio is most naturally represented as a one-dimensional time series or as a one-dimensional temporal sequence. And so for sequence data, you often use an RNN, a recurrent neural network.
 
-> Run Installer: Once the download is complete, run the installer and follow the on-screen prompts to install Visual Studio Code.
-> When installing Visual Studio Code (VSC), you can keep all the default settings.
+Language, English and Chinese, the alphabets or the words come one at a time. So language is also most naturally represented as sequence data. And so more complex versions of RNNs are often used for these applications.
 
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/image%20(2).jpg"></a>
-</p>
+And then, for more complex applications, like autonomous driving, where you have an image, that might suggest more of a CNN, convolution neural network, structure and radar info which is something quite different. You might end up with a more custom, or some more complex, hybrid neural network architecture.
 
-# Python Setup in VS Code
+So, just to be a bit more concrete about what are the standard CNN and RNN architectures. So in the literature you might have seen pictures like this. So that’s a standard neural net. You might have seen pictures like this. Well this is an example of a Convolutional Neural Network, and we’ll see in a later course exactly what this picture means and how can you implement this. But convolutional networks are often used for image data. And you might also have seen pictures like this. And you’ll learn how to implement this in a later course. Recurrent neural networks are very good for this type of one-dimensional sequence data that has maybe a temporal component.
 
-Setting up the Python extension in Visual Studio Code (VS Code) is a straightforward process. Here’s a step-by-step guide to help you get started:
+# Applications of machine learning to both Structured Data and Unstructured Data.
 
->Open Visual Studio Code
+## Structured Data
 
-> Click on the Extensions view icon on the Sidebar (or press Ctrl+Shift+X), then search for "Python" in the Extensions Marketplace.
-
->The official Python extension should appear at the top of the search results. Click the “Install” button next to it to install the extension.
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/08643b60-3ec0-4f7a-821f-b5a227c49658_700x177.png"></a>
-</p>
-
-Open Vscode> Extension>Python(intellisense)
-
-# Setup Interpreter VS Code using Anaconda
-
-> Open VS Code
-
-> Press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (macOS) to open the Command Palette.
-
-> open user setting
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/b49ff646-aade-4d85-a040-ff05b4eecd04_700x110.png"></a>
-</p>
-
-> Search Python Path
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/2427fea9-a17b-4eff-81b9-004cdcf1911f_700x146.png"></a>
-</p>
-Alternative Method:
-
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Python/2e5d1857-ea45-432e-bab7-12d4e3e40f37_700x237.png"></a>
-</p>
-
-Ø If the selected Anaconda environment is not automatically activated, you might need to activate it manually. You can do this by opening a terminal in VS Code (`Ctrl+``) and running:
-
-With the Anaconda interpreter set up in Visual Studio Code, you’re ready to start coding in Python! Write your Python code in the editor, and use the various features provided by the Python extension for code editing, debugging, and more.
-
-That’s it! You’ve successfully set up the Python interpreter in Visual Studio Code using Anaconda. Now you can seamlessly develop Python projects within the Anaconda environment using the powerful features of VS Code
-
-# Installing Python in VS Code Manually
-
-Here’s a guide on how to manually install Python in Visual Studio Code (VS Code)
-
-Step 1: Install Python
-
-Download Python: Visit the official Python website and download the latest version suitable for your operating system (Windows, macOS, or Linux).
-
-Download Python
-The official home of the Python Programming Language
-www.python.org
-
-Ø Choose your Python Version and Opening System and click on Download Link to Start downloading the Python Installer File.
+You might also have heard about applications of machine learning to both Structured Data and Unstructured Data. Here’s what the terms mean. Structured Data means basically databases of data. So, for example, in housing price prediction, you might have a database or the column that tells you the size and the number of bedrooms. So, this is structured data, or in predicting whether or not a user will click on an ad, you might have information about the user, such as the age, some information about the ad, and then labels why that you’re trying to predict. So that’s structured data, meaning that each of the features, such as size of the house, the number of bedrooms, or the age of a user, has a very well defined meaning.
 
 
+# unstructured data
 
-Run the Installer: Open the downloaded file to start the installation.Ø Once download is complete, run the python installer.
+In contrast, unstructured data refers to things like audio, raw audio, or images where you might want to recognize what’s in the image or text. Here the features might be the pixel values in an image or the individual words in a piece of text. Historically, it has been much harder for computers to make sense of unstructured data compared to structured data. And in fact the human race has evolved to be very good at understanding audio cues as well as images. And then text was a more recent invention, but people are just really good at interpreting unstructured data. And so one of the most exciting things about the rise of neural networks is that, thanks to deep learning, thanks to neural networks, computers are now much better at interpreting unstructured data as well compared to just a few years ago. And this creates opportunities for many new exciting applications that use speech recognition, image recognition, natural language processing on text, much more than was possible even just two or three years ago. I think because people have a natural empathy to understanding unstructured data, you might hear about neural network successes on unstructured data more in the media because it’s just cool when the neural network recognizes a cat. We all like that, and we all know what that means. But it turns out that a lot of short term economic value that neural networks are creating has also been on structured data, such as much better advertising systems, much better profit recommendations, and just a much better ability to process the giant databases that many companies have to make accurate predictions from them. But as you think through applications of neural networks within your own team I hope you find both uses for them in both structured and unstructured data. So neural networks have transformed supervised learning and are creating tremendous economic value. It turns out though, that the basic technical ideas behind neural networks have mostly been around, sometimes for many decades. So why is it, then, that they’re only just now taking off and working so well? .
 
-For Windows users, ensure you check the box that says “Add Python to PATH” — this will allow you to run Python from any terminal without configuring paths manually.
-
-On macOS or Linux, Python might come pre-installed, but updating to the latest version is recommended.
-
-
-
-Ø Proceed with the installation by clicking “Install” or “Next.” The installer will then copy the necessary files and configure Python on your system. This process may take a few minutes to complete.
-
-Configure the Python Interpreter
-
-Select Python Interpreter:
-
-Open a Python file or create a new one (.py extension).
-
-Ctrl+Shipt+P > Select Interpreter
-
-
-Ø Congratulations! You’ve successfully installed Python on your system. You can now start using Python for coding, scripting, or running Python programs.
+Please Follow and Subscribe                                           
+ 
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
