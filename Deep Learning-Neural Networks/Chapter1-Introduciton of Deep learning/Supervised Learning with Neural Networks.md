@@ -10,15 +10,19 @@ There’s been a lot of hype about neural networks. And perhaps some of that hyp
 - [What is meant by programming](#1-What-is-meant-by-programming)  
 
 
-# **What is Anaconda?**
+# **Supervised Learning example of Neural network**
 
-Anaconda is software distributions. Actually, Anaconda is more than just a software distribution; it’s a comprehensive ecosystem tailored specifically for data science and machine learning endeavors.
+In supervised learning, you have some input x, and you want to learn a function mapping to some output y. So for example, just now we saw the housing price prediction application where you input some features of a home and try to output or estimate the price y. Here are some other examples that neural networks have been applied to very effectively.
 
-Anaconda comes with over 150 data science packages, covering everything from data manipulation and analysis to machine learning algorithms and visualization tools. Everything you could imagine, where as, Miniconda comes with a handful of what’s needed. A package is a piece of code someone else has written which can be run and often serves a specific purpose. You can consider a package as a tool you can use for your own projects.
+Possibly the single most lucrative application of deep learning today is online advertising, maybe not the most inspiring, but certainly very lucrative, in which, by inputting information about an ad to the website it’s thinking of showing you, and some information about the user, neural networks have gotten very good at predicting whether or not you click on an ad. And by showing you and showing users the ads that you are most likely to click on, this has been an incredibly lucrative application of neural networks at multiple companies. Because the ability to show you ads that you’re more likely to click on has a direct impact on the bottom line of some of the very large online advertising companies.
 
-The concept of packages is fundamental to the functionality of both Anaconda and Miniconda. Packages are helpful because without them, you would have to write far more code to get what you need done. These packages encapsulate solutions to common problems encountered in data science and software development, enabling users to leverage existing code rather than reinventing the wheel. Since many people have similar problems, you’ll often find a group of people have written code to help solve their problem and released it as a package [1].
+Computer vision has also made huge strides in the last several years, mostly due to deep learning. So you might input an image and want to output an index, say from 1 to 1,000 trying to tell you if this picture, it might be any one of, say a 1000 different images. So, you might us that for photo tagging.
 
-Conda is a package manager. It helps you take care of your different packages by handling installing, updating and removing them. It simplifies the process of managing software dependencies, ensuring that users can seamlessly integrate and utilize the diverse array of packages available in the Anaconda ecosystem anaconda can be thought of the data scientists hardware store providing a comprehensive array of tools essential for various stages of the data science workflow. From tools for exploring datasets, to tools for modelling them, to tools for visualising what you’ve found. Everyone can access the hardware store and all the tools inside [1].With Anaconda, the entire data science ecosystem is readily accessible to everyone, empowering individuals and organizations alike to harness the power of data for informed decision-making and innovation.
+I think the recent progress in speech recognition has also been very exciting, where you can now input an audio clip to a neural network, and have it output a text transcript.
+
+Machine translation has also made huge strides thanks to deep learning where now you can have a neural network input an English sentence and directly output say, a Chinese sentence.
+
+And in autonomous driving, you might input an image, say a picture of what’s in front of your car as well as some information from a radar, and based on that, maybe a neural network can be trained to tell you the position of the other cars on the road. So this becomes a key component in autonomous driving systems.
 
 ## **1. Virtual environments in Anaconda**
    
@@ -169,6 +173,7 @@ Ctrl+Shipt+P > Select Interpreter
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
