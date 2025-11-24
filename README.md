@@ -269,8 +269,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 <details> 
 <summary> <h2>Course 4 - 🧠Convolutional Neural Networks </h2> </summary>
   
-  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
-| Topic Name/Tutorial | Video | Code|
+  ### Week 1-**📚Chapter1:Foundation of Convolutional Neural Networks**
+| Topic Name/Tutorial | Video | Code|Note|
 |---|---|---|---|
 | 🌐**1-Computer Vision**| [1](https://drive.google.com/file/d/1KEjxLxGEujKLB-sBpG-F6GNVi8urpPXy/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10493&forceview=1)|
 
