@@ -1,19 +1,7 @@
 
 # Introduction 
 
-Visual Studio Code and Anaconda are powerful tools for Python developers. However, if you are trying to use Anaconda and Visual Studio Code together there is a good chance you have run into some problems.
-
-One primary obstacle is ensuring that Visual Studio Code recognizes and effectively interacts with Anaconda environments. Without proper setup, users may face issues related to package management, interpreter selection, and environment synchronization.
-As common as these tools are for programming with Python, it can be difficult to figure out how to get them to work together. In Visual Studio Code you can run Python code with Anaconda by using the Anaconda Prompt, updating the Visual Studio Code workspace settings to be aware of your Anaconda installation, or adding Anaconda to the Windows Path variable.
-
-Your computer is capable of running many different programs and applications. However, when you want to create or write your own, such as, building a machine learning project, it’s important to set your computer up in the right way. Let’s say you wanted to work with a dataset of patient records to try and predict who had heart disease or not. You’ll need a few tools to do this. One for exploring the data, another for making a predictive model, one for making graphs to present your findings to others and one more to run experiments and put all the others together. If you’re thinking, I don’t even know where to start, don’t worry, you’re not alone. Many people have this problem. Luckily, this is where Anaconda, Miniconda and Conda come in. Anaconda, Miniconda and Conda are tools which help you manage your other tools.
-
-They are important due to following reasons:
-
-1. Anaconda: Comprehensive Environment
-2. Miniconda: Lightweight and Flexible
-3. Conda: Powerful Package Management
-
+There’s been a lot of hype about neural networks. And perhaps some of that hype is justified, given how well they’re working. But it turns out that so far, almost all the economic value created by neural networks has been through one type of machine learning, called supervised learning. Let’s see what that means, and let’s go over some examples.
 
 
 ## 📑 Table of Contents  
@@ -181,6 +169,7 @@ Ctrl+Shipt+P > Select Interpreter
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
