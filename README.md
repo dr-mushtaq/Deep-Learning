@@ -360,6 +360,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅9-UVA Deep Learning Course**](https://www.youtube.com/watch?v=0CFl1ZRc5TI&list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD&index=2)|Learn PyTorch for Deep Learning: Zero to Mastery book| Pending|
 |[**✅10-Introduction to Deep Learningby Sebastian Raschka**](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
 |[**✅11-Neural Networks / Deep Learning By StatQuest with Josh Starmer**](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
+|[**✅12-Deep Learning By Professor Bryce**](https://www.youtube.com/watch?v=-J0P1PEIgLo&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=11)|From basic to advance|
 
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
