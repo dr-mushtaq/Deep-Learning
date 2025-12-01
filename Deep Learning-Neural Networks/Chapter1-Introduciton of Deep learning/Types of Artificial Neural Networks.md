@@ -24,19 +24,14 @@ A perceptron is the earliest and simplest form of a neural network. It was intro
 <img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/4305806d-ca2d-444e-8983-1b932987f6b2_1618x680.png"></a>
 </p>
 
-Components of a Perceptron:
+## Components of a Perceptron:
 
-Inputs: The perceptron takes several inputs (x1,x2,…,xn)
-
-Weights: These determine the contribution of each feature in the linear combination or final result. There is a weight corresponding to each input feature like (w1, w2,…,wn).
-
-Bias: A bias term (b) is added to shift the decision boundary.
-
-Activation Function: The perceptron uses a step function (a simple thresholding function) to determine whether the weighted sum of inputs plus the bias is above or below a certain threshold.
-
-Activation function: The usual activation function used in a perceptron is ‘step function’. It is a simple function which makes binary decision (0 or 1) based on the linear combination of weights and bias.
-
-Output: The output of a perceptron is class label (0 or 1).
+- Inputs: The perceptron takes several inputs (x1,x2,…,xn)
+- Weights: These determine the contribution of each feature in the linear combination or final result. There is a weight corresponding to each input feature like (w1, w2,…,wn).
+- Bias: A bias term (b) is added to shift the decision boundary.
+- Activation Function: The perceptron uses a step function (a simple thresholding function) to determine whether the weighted sum of inputs plus the bias is above or below a certain threshold.
+- Activation function: The usual activation function used in a perceptron is ‘step function’. It is a simple function which makes binary decision (0 or 1) based on the linear combination of weights and bias.
+- Output: The output of a perceptron is class label (0 or 1).
 
 The mathematical representation is:
 
@@ -81,6 +76,7 @@ Please Follow and Subscribe
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
