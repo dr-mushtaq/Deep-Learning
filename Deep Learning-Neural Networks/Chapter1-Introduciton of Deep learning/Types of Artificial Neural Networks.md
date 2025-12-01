@@ -17,23 +17,28 @@ In this blog post, we will delve into the various types of artificial neural net
 - [What is meant by programming](#1-What-is-meant-by-programming)  
 
 
-# **Supervised Learning example of Neural network**
-
-In supervised learning, you have some input x, and you want to learn a function mapping to some output y. So for example, just now we saw the housing price prediction application where you input some features of a home and try to output or estimate the price y. Here are some other examples that neural networks have been applied to very effectively.
+# Section 1- Perceptron
+A perceptron is the earliest and simplest form of a neural network. It was introduced by Frank Rosenblatt in 1958. It is mainly used for linearly separable binary classification problems. It takes input features, find their linear combination, apply activation function (usually a step function) and make a binary classification decision
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/123.webp"></a>
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep%20Learning-Neural%20Networks/Chapter1-Introduciton%20of%20Deep%20learning/4305806d-ca2d-444e-8983-1b932987f6b2_1618x680.png"></a>
 </p>
 
-Possibly the single most lucrative application of deep learning today is online advertising, maybe not the most inspiring, but certainly very lucrative, in which, by inputting information about an ad to the website it’s thinking of showing you, and some information about the user, neural networks have gotten very good at predicting whether or not you click on an ad. And by showing you and showing users the ads that you are most likely to click on, this has been an incredibly lucrative application of neural networks at multiple companies. Because the ability to show you ads that you’re more likely to click on has a direct impact on the bottom line of some of the very large online advertising companies.
+Components of a Perceptron:
 
-Computer vision has also made huge strides in the last several years, mostly due to deep learning. So you might input an image and want to output an index, say from 1 to 1,000 trying to tell you if this picture, it might be any one of, say a 1000 different images. So, you might us that for photo tagging.
+Inputs: The perceptron takes several inputs (x1,x2,…,xn)
 
-I think the recent progress in speech recognition has also been very exciting, where you can now input an audio clip to a neural network, and have it output a text transcript.
+Weights: These determine the contribution of each feature in the linear combination or final result. There is a weight corresponding to each input feature like (w1, w2,…,wn).
 
-Machine translation has also made huge strides thanks to deep learning where now you can have a neural network input an English sentence and directly output say, a Chinese sentence.
+Bias: A bias term (b) is added to shift the decision boundary.
 
-And in autonomous driving, you might input an image, say a picture of what’s in front of your car as well as some information from a radar, and based on that, maybe a neural network can be trained to tell you the position of the other cars on the road. So this becomes a key component in autonomous driving systems.
+Activation Function: The perceptron uses a step function (a simple thresholding function) to determine whether the weighted sum of inputs plus the bias is above or below a certain threshold.
+
+Activation function: The usual activation function used in a perceptron is ‘step function’. It is a simple function which makes binary decision (0 or 1) based on the linear combination of weights and bias.
+
+Output: The output of a perceptron is class label (0 or 1).
+
+The mathematical representation is:
 
 # **Types of neural networks**
    
@@ -76,6 +81,7 @@ Please Follow and Subscribe
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
