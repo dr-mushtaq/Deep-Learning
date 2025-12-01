@@ -1,7 +1,14 @@
 
 # Introduction 
 
-There’s been a lot of hype about neural networks. And perhaps some of that hype is justified, given how well they’re working. But it turns out that so far, almost all the economic value created by neural networks has been through one type of machine learning, called supervised learning. Let’s see what that means, and let’s go over some examples.
+
+Def: Artificial Neural Networks (ANNs) have revolutionized the field of machine learning and have become a cornerstone of artificial intelligence. ANNs are designed to mimic the structure and functionality of the human brain, enabling computers to learn and make decisions in a way that resembles human thinking.
+
+Short History:ANN was first introduced in 1943 by the neurophysiologist Warren McCulloch and the mathematician Walter Pitts. However, ANN had its ups and downs. Post-1960 there was a drop in interest and excitement among researchers w.r.t neural networks with the advancement of Support Vector Machines and other powerful Machine Learning techniques that produced better accuracy and had a stronger theoretical foundation. Neural networks were complex and required tremendous computation power and time to train. However post 1990, the advancement in the field of computation (refer to Moore’s law) followed by the production of powerful GPU cards brought some interest back.
+
+Application :ANNs are versatile, adaptive, and scalable, making them appropriate to tackle large datasets and highly complex Machine Learning tasks such as image classification (e.g., Google Images), speech recognition (e.g., Apple’s Siri), video recommendation (e.g., YouTube), or analyzing sentiments among customers (e.g. Twitter Sentiment Analyzer).
+
+In this blog post, we will delve into the various types of artificial neural networks, exploring their unique characteristics and applications.
 
 
 ## 📑 Table of Contents  
@@ -69,6 +76,7 @@ Please Follow and Subscribe
 
 # References
 [How to Configure Visual Studio Code and Anaconda for Python Programming](https://mushtaqmsit.substack.com/p/how-to-configure-visual-studio-code)
+
 
 
 
