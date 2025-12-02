@@ -273,7 +273,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial | Video | Code|Note|
 |---|---|---|---|
 | 🌐**1-Computer Vision**| [1](https://drive.google.com/file/d/1KEjxLxGEujKLB-sBpG-F6GNVi8urpPXy/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HR1A2fmQ6l0&list=PLLC7bmONapvAEwgRn8WA50H_sMTBgcqn7&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10493&forceview=1)|
-| 🌐**2-Edge Detection Example**| [1](https://drive.google.com/file/d/1zW8N8_ApLZaZIzCJtbJCmnrlspCFJXt9/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HR1A2fmQ6l0&list=PLLC7bmONapvAEwgRn8WA50H_sMTBgcqn7&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10497&forceview=1)|
+| 🌐**2-Edge Detection Example**| [1](https://drive.google.com/file/d/1zW8N8_ApLZaZIzCJtbJCmnrlspCFJXt9/view?usp=sharing)[-2](https://www.youtube.com/watch?v=f0l-SYCrI1o&list=PLLC7bmONapvAEwgRn8WA50H_sMTBgcqn7&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10497&forceview=1)|
 
 
 </details>
