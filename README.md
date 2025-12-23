@@ -313,7 +313,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
 | Topic Name/Tutorial | Video | Code|Extra Resources|
 |---|---|---|---|
-| 🌐**1-Introduction to Transformers**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
+| 🌐**1-Introduction to Transformers**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)[-2](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)|
 </details>
 
  <details> 
@@ -363,6 +363,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅10-Introduction to Deep Learningby Sebastian Raschka**](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
 |[**✅11-Neural Networks / Deep Learning By StatQuest with Josh Starmer**](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
 |[**✅12-Deep Learning By Professor Bryce**](https://www.youtube.com/watch?v=-J0P1PEIgLo&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=11)|From basic to advance|
+|[**✅13-Stanford CME295: Transformers and Large Language model**](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)|From basic to advance|
 
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
