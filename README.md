@@ -311,6 +311,15 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
  <details> 
+<summary> <h2>Course 7 -⚡ Attention Mechanism </h2> </summary>
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|Extra Resources|
+|---|---|---|---|
+| 🌐**1-Introduction to Attention Mechanism**| [1](https://www.skills.google/course_templates/537)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)[-2](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)|
+</details>
+
+ <details> 
 <summary> <h2>Course 7 -⚡ Transformers </h2> </summary>
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
