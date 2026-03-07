@@ -149,7 +149,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[✅**3-Exploring the Different Types of Artificial Neural Networks⭐**](https://open.substack.com/pub/mushtaqmsit/p/exploring-the-most-popular-types?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)|[-1](https://drive.google.com/file/d/1nX_WqPZVeqAZIowyj72-IqOkTHJWnAOS/view?usp=sharing)[-2](https://www.youtube.com/watch?v=kwILqPNZyeo)[-3](https://www.youtube.com/watch?v=JTpj2TK_XDE&list=PLLC7bmONapvDdvvVYMxodjh1eL8fPvUSE&index=6)|---|
 |[✅**4- Why is Deep Learning taking off?⭐**](https://open.substack.com/pub/mushtaqmsit/p/why-is-deep-learning-so-powerful?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|[1](https://drive.google.com/file/d/1ewpU3lXmwkV11TSqryJmFZDOGOGDAgt-/view)[-2](https://www.youtube.com/watch?v=1wusQDGxIXc&list=PLLC7bmONapvDdvvVYMxodjh1eL8fPvUSE&index=6)|---|
 |[✅**5-Best Free Resources to Learn Deep learning (DL)⭐**](https://open.substack.com/pub/mushtaqmsit/p/top-free-resources-to-learn-deep?r=f2squ&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)|---|---|
-|[✅**6-GPU-CPU-TPU⭐**](https://www.kdnuggets.com/building-a-gpu-machine-vs-using-the-gpu-cloud?fbclid=IwAR3Vg9DZlwbophv7lLqYwh128MvxKvgqrYzSBtUQDXCmR6AbyJuaNTpi9IE)|---|---|write blog|
+|[✅**6-GPU-CPU-TPU⭐**](https://www.kdnuggets.com/building-a-gpu-machine-vs-using-the-gpu-cloud?fbclid=IwAR3Vg9DZlwbophv7lLqYwh128MvxKvgqrYzSBtUQDXCmR6AbyJuaNTpi9IE)|---|---|[1](https://github.com/CisMine/GPU-in-ML-DL/tree/main)|
    
    
 ### Week 2-**📚Chapter1:2 Logistic Regression as a Neural Network**
