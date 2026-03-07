@@ -448,6 +448,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅6-Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems**](https://github.com/NirDiamant/rag_techniques)|Github repisotry contain couress| Pending|
 |[**✅7-Awesome LLM Apps**](https://github.com/Shubhamsaboo/awesome-llm-apps)|Github repisotry contain couress| Pending|
 |[**✅8-labml.ai Deep Learning Paper Implementations**](https://github.com/labmlai/annotated_deep_learning_paper_implementations?tab=readme-ov-file)|Github repisotry contain couress| Pending|
+|[**✅9-GPU in Machine Learning and Deep Learing**](https://github.com/CisMine/GPU-in-ML-DL/tree/main)|Github repisotry contain couress| Pending|
 
 
 
