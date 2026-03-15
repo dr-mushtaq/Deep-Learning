@@ -334,6 +334,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---|---|---|---|
 | 🌐**1-Introduction to Autoencoders**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
 | 🌐**1-Encoder-Decoder Architecture**| [1](https://www.skills.google/course_templates/543)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
+| 🌐**3-Sequence-to-Sequence (seq2seq) Encoder-Decoder Neural Network**| [1](https://www.youtube.com/watch?v=L8HKweZIOmg)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[1](https://simonthomine.github.io/CoursDeepLearning/en/04_Autoencodeurs/01_IntuitionEtPremierAE.html)|
 </details>
 
  <details> 
