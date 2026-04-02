@@ -268,6 +268,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 4 - 🧠Convolutional Neural Networks </h2> </summary>
+
+#### Slides and Exercise
+- **[deep-learning-specialization](https://github.com/greyhatguy007/deep-learning-specialization/tree/main)** - FREE
   
   ### Week 1-**📚Chapter1:Foundation of Convolutional Neural Networks**
 | Topic Name/Tutorial | Video | Code|Note|Extra Resources|
