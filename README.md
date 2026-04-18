@@ -412,6 +412,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅11-Neural Networks / Deep Learning By StatQuest with Josh Starmer**](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)|70 Video Lectures from Adaptive Linear Neurons to Zero-shot Classification with Transformers|
 |[**✅12-Deep Learning By Professor Bryce**](https://www.youtube.com/watch?v=-J0P1PEIgLo&list=PLgPbN3w-ia_PeT1_c5jiLW3RJdR7853b9&index=11)|From basic to advance|
 |[**✅13-Stanford CME295: Transformers and Large Language model**](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)|From basic to advance|
+|[**✅14-Awesome Deep Learning**](https://github.com/ChristosChristofidis/awesome-deep-learning)|From basic to advance|
 
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
