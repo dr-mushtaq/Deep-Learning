@@ -453,6 +453,8 @@ Deep Learning models come in different families, designed for specific tasks suc
 | Title| Description | Status |
 |---|---|---|
 |[**✅1-Understanding Deep Learning**](https://udlbook.github.io/udlbook/)|Python notebooks covering the whole text|---|
+|[**✅2-Machine Learning Notebooks, 3rd edition**](https://github.com/ageron/handson-ml3/tree/main)|Python notebooks covering the whole text|---|
+
 
 ## 👁️ Chapter3: - **Important Social medica Groups(reddit)**
 | Title/link| Description | Code |
