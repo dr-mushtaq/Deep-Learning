@@ -268,6 +268,18 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 </details>
 
 <details> 
+<summary> <h2>Course 3 - 🧠Deep Learning with PyTorch </h2> </summary>
+#### YouTube Channels
+   - **[ Deep learnign with Pytorch by CampusX](https://www.youtube.com/watch?v=QZsguRbcOBM&list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)** - FRE
+  
+  ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+| Topic Name/Tutorial | Video | Code|
+|---|---|---|
+| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+
+</details>
+
+<details> 
 <summary> <h2>Course 4 - 🧠Convolutional Neural Networks </h2> </summary>
 
 #### Slides and Exercise
