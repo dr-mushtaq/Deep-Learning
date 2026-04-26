@@ -332,6 +332,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
  <details> 
 <summary> <h2>Course 6 - 🧠Autoencoders </h2> </summary>
+#### YouTube Channels
+- **[CampusX](https://www.youtube.com/watch?v=KiL74WsgxoA)** - FRE
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
 | Topic Name/Tutorial | Video | Code|Extra Resources|
