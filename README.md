@@ -269,8 +269,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 <details> 
 <summary> <h2>Course 3 - 🧠Deep Learning with PyTorch </h2> </summary>
-#### YouTube Channels
-   - **[ Deep learnign with Pytorch by CampusX](https://www.youtube.com/watch?v=QZsguRbcOBM&list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)** - FRE
+ 
+  #### YouTube Channels
+    - **[ Deep learnign with Pytorch by CampusX](https://www.youtube.com/watch?v=QZsguRbcOBM&list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)** - FRE
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
 | Topic Name/Tutorial | Video | Code|
