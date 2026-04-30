@@ -251,10 +251,6 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |**10-Deep Learning Frameworks**| [1](https://drive.google.com/file/d/1njP3S56-3QxVNyMKl9DqQcTgRzEq8zSu/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10486&forceview=1)|Intrmediate|
 |**11-TensorFlow**| [1](https://drive.google.com/file/d/1AXqymhdBO06Ob5o7EVr9ooKxmymgtxl-/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/course/modedit.php?update=10489&return=1)|Intrmediate|
 
-
-
-
-
 </details>
 
 <details> 
@@ -272,6 +268,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
   #### YouTube Channels
     - [Deep learnign with Pytorch by CampusX](https://www.youtube.com/watch?v=QZsguRbcOBM&list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7) - FRE
+
+  #### Important Website
+    - [PyTorch 60-Minute Blitz-official](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html) - FRE
+    
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
 | Topic Name/Tutorial | Video | Code|
