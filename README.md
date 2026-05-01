@@ -275,10 +275,10 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 - **[Dive into Deep Learning](https://d2l.ai/))** - FREE
     
   
-### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
+### Week 1-**📚Chapter1:Introduction to PyTorch**
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
-| [🌐**1-Train / Dev / Test sets**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| [🌐**1-What is Pytorch**](https://medium.com/@Coursesteach/deep-learning-part-36-train-dev-test-sets-d3228c481713) | [1](https://youtu.be/GaF72nBZOhA?si=IAqbroZVROXC-Y18)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
