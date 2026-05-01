@@ -273,8 +273,16 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 - **[PyTorch 60-Minute Blitz-official](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html))** - FREE
 #### Books
 - **[Dive into Deep Learning](https://d2l.ai/))** - FREE
+
+#### Github
+- **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial))** - FREE
+- **[Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)** - FREE
+- **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch#transformers)** - FREE
+- **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch#transformers)** - FREE
+- **[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)** - FREE
     
-  
+    
+    
 ### Week 1-**📚Chapter1:Introduction to PyTorch**
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
