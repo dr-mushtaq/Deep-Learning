@@ -281,6 +281,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 - **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch#transformers)** - FREE
 - **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch#transformers)** - FREE
 - **[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)** - FREE
+- **[Learn Deep Learning from scratch](https://simonthomine.github.io/CoursDeepLearning/en/02_R%C3%A9seauFullyConnected/02_PytorchIntroduction.html)** - FREE
     
     
     
