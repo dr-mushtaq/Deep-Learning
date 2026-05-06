@@ -269,6 +269,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 #### YouTube Channels
 - **[Deep learnign with Pytorch by CampusX](https://www.youtube.com/watch?v=QZsguRbcOBM&list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)** - FREE
 - **[PyTorchZeroToAll (in English)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)** - FREE
+- **[PyTorch Tutorials - Complete Beginner Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)** - FREE
  
 #### Important Website
 - **[PyTorch 60-Minute Blitz-official](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html))** - FREE
@@ -282,6 +283,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 - **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch#transformers)** - FREE
 - **[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)** - FREE
 - **[Learn Deep Learning from scratch](https://simonthomine.github.io/CoursDeepLearning/en/02_R%C3%A9seauFullyConnected/02_PytorchIntroduction.html)** - FREE
+- **[ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps)** - FREE
     
     
     
