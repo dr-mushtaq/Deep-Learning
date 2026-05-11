@@ -615,6 +615,12 @@ Deep Learning has grown into a vast ecosystem of tools, libraries, and platforms
 * Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
 * Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
 
+  ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+All source code and educational material in this repository are released under the MIT License.
+
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
