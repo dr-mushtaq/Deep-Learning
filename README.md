@@ -5,7 +5,7 @@ Welcome to the **Deep Learning Project Repository** – a comprehensive collecti
  # If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
 <p align="center">
-<img src="https://github.com/hussain0048/Deep-Learning/blob/master/DL.png"></a>
+<img src="https://github.com/dr-mushtaq/Deep-Learning/blob/master/Media.jpg"></a>
 </p>
 
 Welcome to the A-Z Guide to Deep Learning repository! This comprehensive supplement serves as your gateway to the expansive world of Deep Learning, offering in-depth coverage of algorithms, statistical methods, and techniques essential for mastering this cutting-edge field.
