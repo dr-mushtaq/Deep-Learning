@@ -12,31 +12,6 @@ Welcome to the A-Z Guide to Deep Learning repository! This comprehensive supplem
 <div>
 <h2>💖 Sponsors</h2>
 
-<p>Our amazing sponsors for supporting my open-source contribution and the <strong>Deep Learning</strong> series!</p>
-
-<h3>Current Sponsor</h3>
-<hr />
-<div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank">
-    <picture>
-      <!-- Dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png" />
-      <!-- Light mode (fallback) -->
-      <a href="https://innovitechs.com/" target="_blank">
-      <img src="https://github.com/dr-mushtaq/Python-Notes/blob/master/Image/LOGO-InnoviTechs.png"
-           width="400px"
-           alt="Wispr Flow Logo"
-           title="Wispr Flow" />
-      </a>
-    </picture>
-  </a>
-
-  <h3>InnoviTechs IT Services – Driving Digital Transformation and Business Growth</h3>
-  <p><em>Our mission is to lead the future of technology innovation by transforming visionary ideas into scalable digital experiences. With creativity, passion, and a commitment to excellence, we deliver tailored technology and workforce solutions that address your unique business challenges with resilience and adaptability.</em></p>
-</div>
-
----
-
 ### 🙌 Become a Sponsor
 
 You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
