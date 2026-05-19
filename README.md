@@ -259,6 +259,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 - **[PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)** - FREE
 - **[Learn Deep Learning from scratch](https://simonthomine.github.io/CoursDeepLearning/en/02_R%C3%A9seauFullyConnected/02_PytorchIntroduction.html)** - FREE
 - **[ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps)** - FREE
+- **[PyTorch Fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)** - FREE
     
     
     
