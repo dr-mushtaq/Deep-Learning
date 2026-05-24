@@ -329,6 +329,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
  <details> 
 <summary> <h2>Course 5 - 🧠Graph Neural Networks </h2> </summary>
+
+#### Youtube
+- **[Graph Neural Networks](https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)** - FREE
   
   ### Week 1-**📚Chapter1:Practical Aspects of Deep Learning**
 | Topic Name/Tutorial | Video | Code|
