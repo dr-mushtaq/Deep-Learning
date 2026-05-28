@@ -271,6 +271,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial | Video | Code|
 |---|---|---|
 |🌐**1-What is Pytorch**| [1](https://youtu.be/GaF72nBZOhA?si=IAqbroZVROXC-Y18)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
+|🌐**2-Tensors Basics**| [1](https://youtu.be/kgOXgoceJGQ?si=uQ9gcWGNqfRvqycl)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
 
 </details>
 
