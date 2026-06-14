@@ -32,13 +32,6 @@ The A-Z Guide to Deep Learning is designed to provide a comprehensive roadmap fo
 
 **4-Supplementary Resources:** Access supplementary materials, such as articles, tutorials, research papers, and curated datasets, to enrich your learning experience and stay updated with the latest developments in Deep Learning.
 
-## **Contents**
-
-Fundamental Concepts: Covering essential concepts such as neural networks, activation functions, optimization algorithms, loss functions, and regularization techniques.
-
-Advanced Algorithms: Exploring advanced Deep Learning architectures and algorithms, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), generative adversarial networks (GANs), and reinforcement learning.
-
-Statistical Methods and Techniques: Discussing statistical methods and techniques commonly used in Deep Learning, such as hypothesis testing, probability distributions, dimensionality reduction, and Bayesian inference.
 
 ## **Why Contribute?**
 
