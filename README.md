@@ -228,7 +228,8 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[PyTorch Tutorials - Complete Beginner Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)** - FREE
  
 #### Important Website
-- **[PyTorch 60-Minute Blitz-official](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html))** - FREE
+- **[PyTorch 60-Minute Blitz-official](https://docs.pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html)** - FREE
+- **[lettuceresearch](https://lettuceresearch.com/articles/tensors-the-atom-of-everything/)** - FREE
 #### Books
 - **[Dive into Deep Learning](https://d2l.ai/))** - FREE
 
