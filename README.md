@@ -73,8 +73,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 
 💡 These courses are part of a structured Deep Learningcurriculum offered by Coursera, designed by Coursera team, and emphasize practical implementation using Python and deep learning libraries.
 
-
-
+🙏 Special thanks 🙏 to  ([**Mr Mayank Sanghi**](https://github.com/saadkhalidabbasi)), reviewers, and content contributors
  Star this repo if you find it useful ⭐
 
 ## **🌍 Join Our Community**
