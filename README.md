@@ -294,6 +294,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
  ### Week 3-**📚Chapter3:Ojbect Dection**
 | Topic Name/Tutorial | Video | Code|Note|Extra Resources|
 |---|---|---|---|---|
+| 🌐**1- Object Localization**| [1](https://drive.google.com/file/d/1k_ARZzJzMdd9vXVYvnCrLnc2sDk3zhaC/view?usp=sharing)[-2](https://youtu.be/csp3yGcAMuM?si=xUSc83g8kV6Q2hsO)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
 | 🌐**10. Region Proposals (Optional)**| [1](https://drive.google.com/file/d/1v6wdMVhmGPpzkY-JvfhEgWGR0Bdc3Uw0/view?usp=sharing)[-2](https://youtu.be/zMcirjCfiNo?si=KwZkyh-D19E4JRml)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
 
 </details>
