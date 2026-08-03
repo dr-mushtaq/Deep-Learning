@@ -291,6 +291,11 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 | 🌐**13-Data Augmentation**| [1](https://drive.google.com/file/d/1KEjxLxGEujKLB-sBpG-F6GNVi8urpPXy/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HR1A2fmQ6l0&list=PLLC7bmONapvAEwgRn8WA50H_sMTBgcqn7&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10493&forceview=1)|[1](https://www.youtube.com/watch?v=jL2G8DG-qmI)[-2](https://www.youtube.com/watch?v=JB8T_zN7ZC0)|
 | 🌐**14-State of Computer Vision**| [1](https://drive.google.com/file/d/1KEjxLxGEujKLB-sBpG-F6GNVi8urpPXy/view?usp=sharing)[-2](https://www.youtube.com/watch?v=HR1A2fmQ6l0&list=PLLC7bmONapvAEwgRn8WA50H_sMTBgcqn7&index=2)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10493&forceview=1)|[1](https://www.youtube.com/watch?v=jL2G8DG-qmI)[-2](https://www.youtube.com/watch?v=JB8T_zN7ZC0)|
 
+ ### Week 3-**📚Chapter3:Ojbect Dection**
+| Topic Name/Tutorial | Video | Code|Note|Extra Resources|
+|---|---|---|---|---|
+| 🌐**10. Region Proposals (Optional)**| [1](https://drive.google.com/file/d/1v6wdMVhmGPpzkY-JvfhEgWGR0Bdc3Uw0/view?usp=sharing)[-2](https://youtu.be/zMcirjCfiNo?si=KwZkyh-D19E4JRml)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
+
 </details>
 
 <details> 
