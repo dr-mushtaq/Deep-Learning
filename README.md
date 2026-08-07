@@ -90,6 +90,9 @@ Please enrolled in the following courses to strengthen knowledge and practical s
  ***
 <details> 
 <summary> <h2>Course 1 - 🧠Deep Learning-Neural Networks </h2> </summary>
+
+#### Course
+- **[Neural Networks for Machine by Prof. Geoffrey Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)** - FREE
   
   ### Week 1-**📚Chapter1: Introduction of Deep learning**
 | Topic Name/Tutorial | Video | Code|Extra Resoruces|
