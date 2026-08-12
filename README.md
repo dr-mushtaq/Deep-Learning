@@ -418,7 +418,10 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |[**✅14-Awesome Deep Learning**](https://github.com/ChristosChristofidis/awesome-deep-learning)|From basic to advance|
 |[**✅15-Neural Networks and Deep Learning by StatQuest**](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)|From basic to advance|
 
-
+## 👁️ Chapter1: - **Road Map**
+| Title/link| Description | Reading Status |
+|---|---|---|
+|[**✅1-ai-learning-roadmaps⭐**](https://github.com/bishwaghimire/ai-learning-roadmaps)|by andrew,Cousera,Good| InProgress|
 
 ## 🔹 Chapter 4: - **List of Deep Learning Models**
 Deep Learning models come in different families, designed for specific tasks such as vision, language, speech, and generative AI. Below is a categorized list of important models.  
