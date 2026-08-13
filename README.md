@@ -251,6 +251,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |---|---|---|---|
 |🌐**1-What is Pytorch**| [1](https://youtu.be/GaF72nBZOhA?si=IAqbroZVROXC-Y18)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
 |🌐**2-Why PyTorch**| [1](https://drive.google.com/file/d/1CTp4tzC1FxY21XM3B2oXzJbIPLgSLm9B/view?usp=sharing)[-2](https://youtu.be/YUvhDaMr-rM?si=tFUjXabN8ktlEcYX)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
+|🌐**3-The Building Blocks of Neural Networks**| [1](https://drive.google.com/file/d/1CTp4tzC1FxY21XM3B2oXzJbIPLgSLm9B/view?usp=sharing)[-2](https://youtu.be/YUvhDaMr-rM?si=tFUjXabN8ktlEcYX)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
 |🌐**3-Tensors Basics**| [1](https://youtu.be/kgOXgoceJGQ?si=uQ9gcWGNqfRvqycl)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
 
 </details>
