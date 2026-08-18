@@ -444,9 +444,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 | **Graph Neural Networks(GNNS)** | Graph-based data (social networks, molecules, knowledge graphs) | 3D recognition & video understanding |
 | **Neural ODEs** | Modeling continuous-time systems, physics-based simulations | 3D recognition & video understanding |
 | **Pysics Informed Neural network** | Solving PDEs, scientific computing, engineering simulations | 3D recognition & video understanding |
----
 
----
 ## 👁️ Chapter2: - **Important Website**
 | Title| Description | Status |
 |---|---|---|
@@ -468,6 +466,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 |---|---|---|
 |[**✅1-Understanding Deep Learning**](https://udlbook.github.io/udlbook/)|Python notebooks covering the whole text|---|
 |[**✅2-Machine Learning Notebooks, 3rd edition**](https://github.com/ageron/handson-ml3/tree/main)|Python notebooks covering the whole text|---|
+|[**✅3-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master)|Python notebooks covering the whole text|---|
 
 
 ## 👁️ Chapter3: - **Important Social medica Groups(reddit)**
