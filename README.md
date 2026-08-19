@@ -319,6 +319,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |---|---|---|
 | 🌐**1-Why Sequential Model**| [1](https://drive.google.com/file/d/1JYFspatqXOuOAs3UFJYMelPc148MhtZB/view)[-2](https://youtu.be/fFajncgglc0?si=zVF_NjRLaXHhhPPe)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**2-Notation.**| [1](https://drive.google.com/file/d/1BCeJeSX3Dvsnf-gbmGlI5lunIV4i6z_S/view?usp=sharing)[-2](https://youtu.be/lPd8ETAXe3A?si=jKMYraiA1ZwImZCv)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**3-Recurrent Neural Network Model**| [1](https://drive.google.com/file/d/1ZRW2QTgG0_trHt9_xHaI73U0PDculNx6/view?usp=sharing)[-2](https://youtu.be/NIyu01s-IzQ?si=wPERj8ehNd9sj-Ri)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
