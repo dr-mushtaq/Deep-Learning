@@ -311,7 +311,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
  ### Week 4-**📚Chapter3:Special Applications: Face Recognition and Neural Syle Transfer**
 | Topic Name/Tutorial | Video | Code|Note|Extra Resources|
 |---|---|---|---|---|
-| 🌐**1-What Is Face Recognition [1](https://drive.google.com/file/d/1tEg4i3D9Kn0edIofo8-5ClRjqovsOEJB/view?usp=sharing)[2](https://youtu.be/-67JLHvmt20?si=714AZ-cv5q8VJWlG)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
+| 🌐**1-What Is Face Recognition**| [1](https://drive.google.com/file/d/1tEg4i3D9Kn0edIofo8-5ClRjqovsOEJB/view?usp=sharing)[2](https://youtu.be/-67JLHvmt20?si=714AZ-cv5q8VJWlG)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
 
 </details>
 
