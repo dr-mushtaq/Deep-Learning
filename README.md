@@ -312,6 +312,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 | Topic Name/Tutorial | Video | Code|Note|Extra Resources|
 |---|---|---|---|---|
 | 🌐**1-What Is Face Recognition**| [1](https://drive.google.com/file/d/1tEg4i3D9Kn0edIofo8-5ClRjqovsOEJB/view?usp=sharing)[2](https://youtu.be/-67JLHvmt20?si=714AZ-cv5q8VJWlG)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
+| 🌐**2-One-Shot Learning**| [1](https://drive.google.com/file/d/18Aod88FRulKYLfG-uwKS-xmMtrLwETas/view?usp=sharing)[2](https://youtu.be/H8SXKZlj2W4?si=poP_0ek7mnNTCdjM)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10548&forceview=1)|---|
 
 </details>
 
