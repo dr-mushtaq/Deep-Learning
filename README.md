@@ -253,6 +253,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |🌐**2-Why PyTorch**| [1](https://drive.google.com/file/d/1CTp4tzC1FxY21XM3B2oXzJbIPLgSLm9B/view?usp=sharing)[-2](https://youtu.be/YUvhDaMr-rM?si=tFUjXabN8ktlEcYX)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
 |🌐**3-The Building Blocks of Neural Networks**| [1](https://drive.google.com/file/d/1qdR_2jpuH-bMYL8PGHg9GpDvc6EKTgXM/view?usp=sharing)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10621&forceview=1)|
 |🌐**3-Tensors Basics**| [1](https://youtu.be/kgOXgoceJGQ?si=uQ9gcWGNqfRvqycl)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
+|🌐**4-Machine Learning Pipeline**| [1](https://drive.google.com/file/d/1uhROvL43SOfhGsdCp4FTS0CiOGYTjvls/view?usp=sharing)[-2](https://youtu.be/Ikq_z0Dl5lg?si=rDu_fbWkL6I0SVHb)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |
 
 </details>
 
