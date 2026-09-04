@@ -243,6 +243,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[Learn Deep Learning from scratch](https://simonthomine.github.io/CoursDeepLearning/en/02_R%C3%A9seauFullyConnected/02_PytorchIntroduction.html)** - FREE
 - **[ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps)** - FREE
 - **[PyTorch Fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)** - FREE
+- **[Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning/)** - FREE
     
     
     
