@@ -336,6 +336,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 | 🌐**2-Notation.**| [1](https://drive.google.com/file/d/1BCeJeSX3Dvsnf-gbmGlI5lunIV4i6z_S/view?usp=sharing)[-2](https://youtu.be/lPd8ETAXe3A?si=jKMYraiA1ZwImZCv)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**3-Recurrent Neural Network Model**| [1](https://drive.google.com/file/d/1ZRW2QTgG0_trHt9_xHaI73U0PDculNx6/view?usp=sharing)[-2](https://youtu.be/NIyu01s-IzQ?si=wPERj8ehNd9sj-Ri)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**4-Types of Recurrent Neural Networks**| [1](https://drive.google.com/file/d/1_Hnx8OIgivVOp_reoGS1I86E_eADOiGC/view?usp=sharing)[-2](https://youtu.be/ylYyNPRM5FI?si=JjB266Qsf7T2K29o)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**5-Language Model and Sequence Generation Text**| [1](https://drive.google.com/file/d/1dlz2Vnv534VKneYHa-Ira2sv35ux9dQD/view?usp=sharing)[-2](https://youtu.be/GQk7afcxnec?si=rLC73yDHGZjWgMjb)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
