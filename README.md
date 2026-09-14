@@ -235,6 +235,10 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 #### Books
 - **[Dive into Deep Learning](https://d2l.ai/))** - FREE
 
+#### Courses 
+- **[PyTorch for Deep Learning Professional Certificate](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning?irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr2fA0473AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#courses)** - FREE
+
+
 #### Github
 - **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial))** - FREE
 - **[Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)** - FREE
