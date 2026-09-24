@@ -345,6 +345,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 | 🌐**4-Types of Recurrent Neural Networks**| [1](https://drive.google.com/file/d/1_Hnx8OIgivVOp_reoGS1I86E_eADOiGC/view?usp=sharing)[-2](https://youtu.be/ylYyNPRM5FI?si=JjB266Qsf7T2K29o)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**5-Language Model and Sequence Generation Text**| [1](https://drive.google.com/file/d/1dlz2Vnv534VKneYHa-Ira2sv35ux9dQD/view?usp=sharing)[-2](https://youtu.be/GQk7afcxnec?si=rLC73yDHGZjWgMjb)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 | 🌐**6-Sampling Novel Sequences**| [1](https://drive.google.com/file/d/1htv3C2hCQNuRf0ZRpKv_Q7Afrj4PwXsK/view?usp=sharing)[-2](https://youtu.be/bwVxdR2oK6s?si=c1bGQqXODOPyP1dA)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
+| 🌐**7-Vanishing Gradient with RNN**| [1](https://drive.google.com/file/d/1ErGj5Wz0ksVwfVd-extEB89PCuJ-l320/view?usp=sharing)[-2](https://youtu.be/9_ddnzM1Eg8?si=mlI5WXNiLhA4l41L)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Deep-Learning/blob/master/Deep_Learning.ipynb) |
 
 </details>
 
