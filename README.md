@@ -22,26 +22,6 @@ Thank you for your generous support! 🌟
 
 The A-Z Guide to Deep Learning is designed to provide a comprehensive roadmap for both beginners and experienced practitioners seeking to delve into the realm of Deep Learning. Whether you're just starting your journey or looking to expand your expertise, this repository offers a wealth of resources to support your learning and exploration.
 
-## **Features👋🛒**
-
-**1- Extensive Coverage:** Explore a wide range of topics, including fundamental concepts, advanced algorithms, statistical methods, and practical techniques crucial for understanding and implementing Deep Learning models.
-
-**2-Hands-On Implementations:** Dive into practical implementations of Deep Learning algorithms and techniques using Python, alongside detailed explanations, code examples, and real-world applications.
-
-**3-Progressive Learning Path:** Follow a structured learning path that progresses from foundational concepts to advanced topics, ensuring a gradual and comprehensive understanding of Deep Learning principles and methodologies.
-
-**4-Supplementary Resources:** Access supplementary materials, such as articles, tutorials, research papers, and curated datasets, to enrich your learning experience and stay updated with the latest developments in Deep Learning.
-
-
-## **Why Contribute?**
-
-1- **Share Your Expertise**: If you have knowledge or insights in Deep learning , your contributions can assist others in learning and applying these concepts.
-
-2-**Enhance Your Skills**: Contributing to this project offers a great opportunity to deepen your understanding of Deep learning . Writing, coding, or reviewing content will reinforce your knowledge while uncovering new areas of the field.
-
-3- **Collaborate and Connect**: Join a community of like-minded individuals committed to advancing AI education. Work with peers, receive feedback, and build connections that may open up new opportunities.
-
-4- **Make a Difference**: Your contributions can shape how others learn and engage with machine learning. By refining and expanding content, you help shape the education of future engineers and AI experts.
 
 ## **💡 How to Participate?**
 
@@ -78,10 +58,6 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 ## **🌍 Join Our Community**
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
-
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
 
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
