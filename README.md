@@ -229,7 +229,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
     
     
     
-### Week 1-**📚Chapter1:Introduction to PyTorch**
+### Week 1-**📚Chapter1:Getting started with Pytorch**
 | Topic Name/Tutorial | Video | Code|Extra Resources|
 |---|---|---|---|
 |🌐**1-What is Pytorch**| [1](https://youtu.be/GaF72nBZOhA?si=IAqbroZVROXC-Y18)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
@@ -241,6 +241,11 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 |🌐**6-Activation Functions**| [1](https://drive.google.com/file/d/1PCL63-TSL5Li0U6sSCUBVtRsmBDLu5Zd/view?usp=sharing)[-2](https://youtu.be/_YeHZi_Zuhs?si=_ZDGak6X-O_fe3OD)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10634&forceview=1)|
 |🌐**7-Tensors**| [1](https://drive.google.com/file/d/1VZzt46nZdX_LlMvoJk2dKreDZvAjSr0J/view?usp=sharing)[-2](https://youtu.be/7thOSPo9WBA?si=tyAWp2TGfrLnhH5C)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10647)|
 |🌐**8-Tensor Math and Broadcasting**| [1](https://drive.google.com/file/d/1yq-9RgCS5JDxZvsU706bXpI79I6qhV6M/view?usp=sharing)[-2](https://youtu.be/4SHmu9N6JHI?si=hZN8Qala88aXuawx)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[Note](https://coursesteach.com/mod/page/view.php?id=10647)|
+
+### Week 2-**📚Chapter2:The Pytorch Workflow**
+| Topic Name/Tutorial | Video | Code|Extra Resources|
+|---|---|---|---|
+|🌐**1-Decoding a Secret Message**| [1](https://drive.google.com/file/d/1KewUmEcLElcB93FAHtq_zrdkI4stukw2/view?usp=sharing)[-2](https://youtu.be/uTTMkoHx5E4?si=FwKt4DeGHzlqg8K_)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
 
 </details>
 
@@ -498,6 +503,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅4- Mathematical Foundations of Deep Learning**](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Books/Mathematical%20Foundations%20of%20Deep%20Learning.pdf)|Interactive deep learning book with code, math, and discussions|---|
 |[**✅5-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 |[**✅6-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
+|[**✅7-Data Scienctist Toolbox-Google drive**](https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 
 
 
