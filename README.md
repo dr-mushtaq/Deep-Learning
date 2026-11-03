@@ -226,6 +226,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 - **[ai-learning-roadmaps](https://github.com/bishwaghimire/ai-learning-roadmaps)** - FREE
 - **[PyTorch Fundamentals](https://github.com/analyticalrohit/pytorch_fundamentals/tree/main)** - FREE
 - **[Learn PyTorch for Deep Learning](https://github.com/mrdbourke/pytorch-deep-learning/)** - FREE
+- **[pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning)** - FREE
     
     
     
