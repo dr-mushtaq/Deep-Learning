@@ -506,6 +506,7 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅5-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 |[**✅6-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 |[**✅7-Data Scienctist Toolbox-Google drive**](https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
+|**[Dive into Deep Learning](https://d2l.ai/index.html)**|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 
 
 
