@@ -247,6 +247,7 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 | Topic Name/Tutorial | Video | Code|Extra Resources|
 |---|---|---|---|
 |🌐**1-Decoding a Secret Message**| [1](https://drive.google.com/file/d/1KewUmEcLElcB93FAHtq_zrdkI4stukw2/view?usp=sharing)[-2](https://youtu.be/uTTMkoHx5E4?si=FwKt4DeGHzlqg8K_)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
+|🌐**2-Overview of the ML Pipeline with PyTorch**| [1](https://drive.google.com/file/d/1Ji1y7XZxmaWoQIm1eqa0e5maywWt-jeo/view?usp=sharing)[-2]([https://youtu.be/uTTMkoHx5E4?si=FwKt4DeGHzlqg8K](https://youtu.be/ZmprZTrY7k8)_)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
 
 </details>
 
