@@ -247,7 +247,8 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 | Topic Name/Tutorial | Video | Code|Extra Resources|
 |---|---|---|---|
 |🌐**1-Decoding a Secret Message**| [1](https://drive.google.com/file/d/1KewUmEcLElcB93FAHtq_zrdkI4stukw2/view?usp=sharing)[-2](https://youtu.be/uTTMkoHx5E4?si=FwKt4DeGHzlqg8K_)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
-|🌐**2-Overview of the ML Pipeline with PyTorch**| [1](https://drive.google.com/file/d/1Ji1y7XZxmaWoQIm1eqa0e5maywWt-jeo/view?usp=sharing)[-2](https://youtu.be/epCsfpw_Vnk?si=8qX9pLmYIe3pX6gI)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
+|🌐**2-Overview of the ML Pipeline with PyTorch Part 1**| [1](https://drive.google.com/file/d/1Ji1y7XZxmaWoQIm1eqa0e5maywWt-jeo/view?usp=sharing)[-2](https://youtu.be/epCsfpw_Vnk?si=8qX9pLmYIe3pX6gI)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
+|🌐**2-Overview of the ML Pipeline with PyTorch - Part 2**| [1](https://drive.google.com/file/d/1xSkEoKfQR5vKqMoyT-rbsHnja2MXgkrv/view?usp=sharing)[-2](https://youtu.be/NVxWRMM_6is?si=QNvWyW11_ZQxfGXB)| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Deep-Learning/blob/master/Deep_Learning_with_PyTorch.ipynb) |[1](https://coursesteach.com/mod/page/view.php?id=10616)|
 
 </details>
 
@@ -523,8 +524,8 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅5-Comprehensive Study Resources**](https://github.com/Rishabh-creator601/Books/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 |[**✅6-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 |[**✅7-Data Scienctist Toolbox-Google drive**](https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD)|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
-|**[Dive into Deep Learning](https://d2l.ai/index.html)**|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
-
+|**[✅Dive into Deep Learning](https://d2l.ai/index.html)**|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
+|**[✅Dive into Deep Learning](https://d2l.ai/index.html)**|A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.|---|
 
 
 
