@@ -215,6 +215,9 @@ Please enrolled in the following courses to strengthen knowledge and practical s
 #### Courses 
 - **[PyTorch for Deep Learning Professional Certificate](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning?irclickid=RIMwY4SGUxycUVyXND0fZwm4Ukr2fA0473AAU80&irgwc=1&afsrc=1&utm_medium=partners&utm_source=impact&utm_campaign=3401872&utm_content=b2c&utm_campaignid=thecleverprogrammer&utm_term=14726_CR_1164545_#courses)** - FREE
 
+#### NotbookLLM
+- **[MIT AI Tutor (15.773)](https://notebook.google.com/notebook/ef9d0c4f-535b-4fdd-bbeb-a96212e0c297)** - FREE
+
 
 #### Github
 - **[pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial))** - FREE
