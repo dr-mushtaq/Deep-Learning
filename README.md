@@ -521,9 +521,9 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅ 5-Become AI Engineer for Free**](https://www.reddit.com/r/letscodecommunity/comments/1sn44cw/become_ai_engineer_for_free_complete_github_aiml/) | Comprehensive roadmap for AI courses           | Completed  |
 
 ## 👁️ Chapter3: - **Important Notbook LLM**
-| Title/link| Description | Code |
+| Title/link| Description | Extra Resources |
 |---|---|---|
-|[MIT AI Tutor (15.773)](https://notebook.google.com/notebook/ef9d0c4f-535b-4fdd-bbeb-a96212e0c297)|Teaching Computer Science through Visual Storytelling.|---|
+|[MIT AI Tutor (15.773)](https://notebook.google.com/notebook/ef9d0c4f-535b-4fdd-bbeb-a96212e0c297)|Teaching Computer Science through Visual Storytelling.|[1](https://www.learnwithmeai.com/p/notebooklm-tutors-mit?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true)|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
