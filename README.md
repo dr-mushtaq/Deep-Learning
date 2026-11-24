@@ -511,12 +511,19 @@ Deep Learning models come in different families, designed for specific tasks suc
 |[**✅3-Booklist**](https://github.com/zhang-jian/bookshelf/tree/master)|Python notebooks covering the whole text|---|
 
 
+
+
 ## 👁️ Chapter3: - **Important Social medica Groups(reddit)**
 | Title/link| Description | Code |
 |---|---|---|
 |[**✅1-ByteQuest**](https://www.youtube.com/@Byte_Quest)|Teaching Computer Science through Visual Storytelling.|---|
 |[**✅ 4-DataMListic**](https://www.youtube.com/@datamlistic) | Comprehensive roadmap for AI courses           | Completed  |
 |[**✅ 5-Become AI Engineer for Free**](https://www.reddit.com/r/letscodecommunity/comments/1sn44cw/become_ai_engineer_for_free_complete_github_aiml/) | Comprehensive roadmap for AI courses           | Completed  |
+
+## 👁️ Chapter3: - **Important Notbook LLM**
+| Title/link| Description | Code |
+|---|---|---|
+|[MIT AI Tutor (15.773)](https://notebook.google.com/notebook/ef9d0c4f-535b-4fdd-bbeb-a96212e0c297)|Teaching Computer Science through Visual Storytelling.|---|
 
 ## 👁️ Chapter4: - **Free Books**
 | Title/link| Description | Code |
