@@ -6,14 +6,15 @@ Welcome to the **Deep Learning Project Repository** – a comprehensive collecti
 
 Welcome to the A-Z Guide to Deep Learning repository! This comprehensive supplement serves as your gateway to the expansive world of Deep Learning, offering in-depth coverage of algorithms, statistical methods, and techniques essential for mastering this cutting-edge field.
 <div>
-<h2>💖 Sponsors</h2>
-
 ### 🙌 Become a Sponsor
 
-You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
+You can support this project by becoming a sponsor on  **Gumroad:** —  📧 [Gumroad:]( https://couresesteach.gumroad.com/l/SupportCoursesTeach). or via Patron
 
-Every contribution — big or small — helps sustain the development of ** Deep learning materials**, **AI-driven educational resources**, and **data science tools**.  
+[<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" width="200">](https://www.patreon.com/cw/coursesteach)
+
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
 Thank you for your generous support! 🌟
+
 
 ---
 
